@@ -1,6 +1,8 @@
 # Derecho sin tapujos: validación
 
-**Veredicto de `compile.py`: Todavía no.** Hay dos comprobaciones que fallan. El año 1 pierde 8.664 € si se valora el tiempo de Rafa, y 0 de los 20 compradores simulados compran en frío. Con el valor del encargo, el podcast pasa de no tener sentido económico a ser **una inversión que cruza a beneficio mensual hacia el mes 12**.
+**Veredicto de `compile.py`: Todavía no, solo por el panel.** Las cuentas pasan: en caja, el año 1 deja unos **16.430 €** con 400 € de arranque. Lo que falla es que 0 de los 20 compradores simulados compran **en frío**, sin conocer a Rafa. Esto lo resuelve un piloto con oyentes reales, no un cambio de precio.
+
+> Corrección del 21/11/2026: las pérdidas de las versiones anteriores eran el tiempo de Rafa valorado a 40 €/h, no salidas de caja. Ahora el tiempo va aparte, en horas.
 
 ## Qué es
 
@@ -8,9 +10,9 @@ Un podcast semanal (hasta 2 h: 1 h de entrevista a un profesional y 1 h de divul
 
 ## Los números del veredicto
 
-- **Lo que vale una consulta captada:** 725 € esperados (50 € de consulta más un 30% de probabilidad de un encargo de 2.250 €). Deja **356 €** tras los costes estimados.
-- **Equilibrio:** unas **4 consultas al mes** (unas 525 escuchas por episodio), contando 8 h semanales de Rafa a 40 €/h.
-- **Año 1:** −8.664 € en el escenario base. Los escenarios van de −12.981 € a −2.620 €. Sin contar el tiempo de Rafa, que no sale de caja, es positivo con 400 € de arranque.
+- **Lo que vale una consulta captada:** 725 € esperados (50 € de consulta más un 30% de probabilidad de un encargo de 2.250 €).
+- **Caja del año 1:** +16.430 € en el escenario base, unas 23 consultas y 7 encargos. Los escenarios van de 7.796 € a 28.518 €. Gasto: 400 € de arranque y unos 20 €/mes, que se recuperan en el mes 3.
+- **Tiempo:** unas 416 h al año de producción (estimación), del orden de 40 € netos por hora en el escenario base. Solo es un coste si desplaza trabajo que ya se factura.
 
 ## Lo que dicen el consejo y el panel
 
@@ -20,7 +22,7 @@ Un podcast semanal (hasta 2 h: 1 h de entrevista a un profesional y 1 h de divul
 
 ## El mayor riesgo y qué hacer
 
-La conversión de consulta a encargo con público frío es el dato que más mueve todo, y hoy es una estimación (30%). Los referidos convierten casi al 100%; los oyentes no lo harán. Lo que lo sube es la confianza: episodios por problema concreto y la consulta descontable. La crítica con nombre propio está acotada en `riesgos-legales.md`.
+El riesgo es de capacidad y de conversión, no de caja. Si la agenda ya está llena con los referidos, las horas del podcast compiten con trabajo facturable. Y la conversión de consulta a encargo con público frío es una estimación (30%). Los referidos convierten casi al 100%; los oyentes no lo harán. Lo que lo sube es la confianza: episodios por problema concreto y la consulta descontable. La crítica con nombre propio está acotada en `riesgos-legales.md`.
 
 ## El podcast dentro de la vuelta a redes
 

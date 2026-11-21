@@ -2,19 +2,19 @@
 
 **Verdict: Not yet**
 
-- ✓ Each consulta captada earns $356.50 before fixed costs (49% contribution).
-- ✗ Year 1 operating LOSS: $8,664.
+- ✓ Each consulta captada earns $724.00 before fixed costs (100% contribution).
+- ✓ Year 1 operating profit: $16,430.
 - ✗ 0 of 20 simulated buyers buy (0%, the bar is 25%).
 
 | key number | |
 | --- | ---: |
 | Price | $725.00 a consulta captada |
-| Profit margin at plan | 6% per consulta captada |
+| Profit margin at plan | 99% per consulta captada |
 | Break-even | 1 consulta captadas a day |
-| Year 1 operating profit | $-8,664 |
+| Year 1 operating profit | $16,430 |
 | Startup spend | $400 |
-| Cash needed before it pays for itself | $9,262 |
-| Startup money earned back | not in year 1 |
+| Cash needed before it pays for itself | $400 |
+| Startup money earned back | month 3 |
 | Buyer panel | 0 buy · 20 pass |
 
 ## The idea
@@ -29,7 +29,9 @@
 
 ## Summary
 
-**Veredicto de `compile.py`: Todavía no.** Hay dos comprobaciones que fallan. El año 1 pierde 8.664 € si se valora el tiempo de Rafa, y 0 de los 20 compradores simulados compran en frío. Con el valor del encargo, el podcast pasa de no tener sentido económico a ser **una inversión que cruza a beneficio mensual hacia el mes 12**.
+**Veredicto de `compile.py`: Todavía no, solo por el panel.** Las cuentas pasan: en caja, el año 1 deja unos **16.430 €** con 400 € de arranque. Lo que falla es que 0 de los 20 compradores simulados compran **en frío**, sin conocer a Rafa. Esto lo resuelve un piloto con oyentes reales, no un cambio de precio.
+
+> Corrección del 21/11/2026: las pérdidas de las versiones anteriores eran el tiempo de Rafa valorado a 40 €/h, no salidas de caja. Ahora el tiempo va aparte, en horas.
 
 ### Qué es
 
@@ -37,9 +39,9 @@ Un podcast semanal (hasta 2 h: 1 h de entrevista a un profesional y 1 h de divul
 
 ### Los números del veredicto
 
-- **Lo que vale una consulta captada:** 725 € esperados (50 € de consulta más un 30% de probabilidad de un encargo de 2.250 €). Deja **356 €** tras los costes estimados.
-- **Equilibrio:** unas **4 consultas al mes** (unas 525 escuchas por episodio), contando 8 h semanales de Rafa a 40 €/h.
-- **Año 1:** −8.664 € en el escenario base. Los escenarios van de −12.981 € a −2.620 €. Sin contar el tiempo de Rafa, que no sale de caja, es positivo con 400 € de arranque.
+- **Lo que vale una consulta captada:** 725 € esperados (50 € de consulta más un 30% de probabilidad de un encargo de 2.250 €).
+- **Caja del año 1:** +16.430 € en el escenario base, unas 23 consultas y 7 encargos. Los escenarios van de 7.796 € a 28.518 €. Gasto: 400 € de arranque y unos 20 €/mes, que se recuperan en el mes 3.
+- **Tiempo:** unas 416 h al año de producción (estimación), del orden de 40 € netos por hora en el escenario base. Solo es un coste si desplaza trabajo que ya se factura.
 
 ### Lo que dicen el consejo y el panel
 
@@ -49,7 +51,7 @@ Un podcast semanal (hasta 2 h: 1 h de entrevista a un profesional y 1 h de divul
 
 ### El mayor riesgo y qué hacer
 
-La conversión de consulta a encargo con público frío es el dato que más mueve todo, y hoy es una estimación (30%). Los referidos convierten casi al 100%; los oyentes no lo harán. Lo que lo sube es la confianza: episodios por problema concreto y la consulta descontable. La crítica con nombre propio está acotada en `riesgos-legales.md`.
+El riesgo es de capacidad y de conversión, no de caja. Si la agenda ya está llena con los referidos, las horas del podcast compiten con trabajo facturable. Y la conversión de consulta a encargo con público frío es una estimación (30%). Los referidos convierten casi al 100%; los oyentes no lo harán. Lo que lo sube es la confianza: episodios por problema concreto y la consulta descontable. La crítica con nombre propio está acotada en `riesgos-legales.md`.
 
 ### El podcast dentro de la vuelta a redes
 
@@ -197,35 +199,31 @@ Competencia en precio: la primera consulta gratuita de muchos laboralistas y sin
 
 ## The numbers
 
-> Datos de Rafa (21/11/2026): consulta a 50 €; un encargo factura **entre 1.500 y 3.000 €**; hoy casi todas las consultas acaban en encargo, pero vienen **por referencias**. El resto son **estimaciones** marcadas en `cfo-sources.md`. La herramienta imprime "$": son euros. El modelo anterior (mezcla de consulta y curso sin encargo) queda en `cfo-mezcla.md`. No es asesoramiento financiero ni fiscal.
+> Corrección del 21/11/2026, a raíz de la pregunta de Rafa. Las "pérdidas" de los cálculos anteriores eran casi todas **el tiempo de Rafa valorado a 40 €/h** (8 h semanales de producción y un 50% de los honorarios como coste de llevar cada encargo). Ese tiempo no sale de la caja: Rafa ya ejerce y tiene ingresos. Por eso ahora el modelo cuenta **solo dinero que entra y sale**, y el tiempo va en horas en una sección propia. Solo sería un coste si quitara horas a trabajo que ya se factura. La versión anterior está en `cfo-coste-tiempo.md` y la primera en `cfo-mezcla.md`. Datos de Rafa: consulta a 50 € y encargo de 1.500 a 3.000 €. El resto son estimaciones (`cfo-sources.md`). La herramienta imprime "$": son euros. No es asesoramiento financiero ni fiscal.
 
 ### Nota del CFO
 
-- **La unidad cambia:** ya no es la consulta de 50 €, es **la consulta captada por el podcast y lo que trae detrás**. Con un 30% de conversión a encargo (estimación para público que llega por el podcast, frente al casi 100% de los referidos) y 2.250 € de honorarios medios, cada consulta vale 725 € esperados y deja **356 €** después de la consulta y de un 50% estimado de coste de llevar el encargo.
-- **El equilibrio baja de unas 30 ventas al mes a unas 4 consultas al mes**, contando 8 h semanales de Rafa a 40 €/h. Con un 0,75% de las escuchas por episodio pidiendo consulta, eso son unas **525 escuchas por episodio**.
-- **El año 1** cierra en **−8.664 €** contando el tiempo de Rafa. El modelo cruza a beneficio mensual en el **mes 12** (+198 €), cuando llega a unas 600 escuchas por episodio. Sin contar su tiempo (que no es salida de caja), el podcast es positivo desde el principio: arranque de 400 €.
-- **La línea que más mueve el resultado es la conversión de consulta a encargo**, más que los honorarios. Con el 40% y 3.000 € el año 1 se queda en −2.620 €; con el 20% y 1.500 €, en −12.981 €. Ningún escenario recupera el tiempo invertido dentro del año 1. Todos tienen un punto de equilibrio de 2 a 8 consultas al mes, que es alcanzable.
-- **Lo que no está en el modelo:** el curso de IA (lo dejo fuera por prudencia, porque el panel no lo compraba), los encargos que lleguen años después por referencias de oyentes, y el valor del podcast como motor de la vuelta a redes y web.
+- **Caja del año 1: +16.430 €** de ingresos netos atribuibles al podcast, sobre 16.693 € facturados. Son unas 23 consultas y unos 7 encargos, con un 30% de conversión a encargo (estimación) y 2.250 € de honorario medio.
+- **Lo que sale de caja:** 400 € de arranque (micrófono para invitados y portada) y unos 20 €/mes de alojamiento y software. **Se recupera en el mes 3.** Basta con una consulta que acabe en encargo en todo el año para cubrir el gasto anual.
+- **El tiempo, aparte:** unas **416 horas al año** de producción (8 h/semana, estimación) más las horas de los encargos nuevos, que ya se pagan con sus honorarios. Por cada hora de producción, el podcast trae del orden de **40 € de facturación neta** en el escenario base.
+- **Cuándo el tiempo sí es un coste:** solo si las horas del podcast o de los encargos nuevos desplazan trabajo que ya se factura. Si tu agenda está llena con los referidos, el límite no es el dinero, es la capacidad. En ese caso conviene bajar horas de producción (formato de 1 h, edición con apoyo) antes que dejar el podcast.
+- **La línea que más mueve el resultado** sigue siendo la conversión de consulta a encargo con público que llega en frío. Con un 20% y 1.500 € el año 1 deja 7.796 €; con un 40% y 3.000 €, 28.518 €.
 
-### Escenarios (tiempo de Rafa incluido)
+### Escenarios de caja del año 1 (unas 23 consultas en el año)
 
-| Consulta → encargo | Honorarios medios | Deja cada consulta | Equilibrio (consultas/mes) | Año 1 | Tiempo recuperado |
-|---:|---:|---:|---:|---:|---|
-| 20% | 1.500 € | 169 € | 8,3 | −12.981 € | no en el año 1 |
-| 20% | 2.250 € | 244 € | 5,8 | −11.254 € | no en el año 1 |
-| 20% | 3.000 € | 319 € | 4,4 | −9.527 € | no en el año 1 |
-| 30% | 1.500 € | 244 € | 5,8 | −11.254 € | no en el año 1 |
-| **30%** | **2.250 €** | **356 €** | **3,9** | **−8.664 €** | **no en el año 1 (base)** |
-| 30% | 3.000 € | 469 € | 3,0 | −6.073 € | no en el año 1 |
-| 40% | 1.500 € | 319 € | 4,4 | −9.527 € | no en el año 1 |
-| 40% | 2.250 € | 469 € | 3,0 | −6.073 € | no en el año 1 |
-| 40% | 3.000 € | 619 € | 2,3 | −2.620 € | no en el año 1 |
+| Consulta → encargo | Encargos en el año | 1.500 € | 2.250 € | 3.000 € |
+|---:|---:|---:|---:|---:|
+| 20% | 4,6 | 7.796 € | 11.249 € | 14.703 € |
+| **30%** | **6,9** | 11.249 € | **16.430 €** | 21.611 € |
+| 40% | 9,2 | 14.703 € | 21.611 € | 28.518 € |
 
-### Tres formas de mejorar el resultado
+Fuera del modelo, y todo a favor: el curso de IA, los encargos que lleguen años después por referencias de oyentes y el valor del podcast en la vuelta a redes y web (`monetizacion.md`).
 
-1. **Subir la conversión a encargo:** con la consulta descontable del encargo, que es lo que pedía el panel. Pasar del 30% al 40% con 2.250 € mejora el año 1 en 2.591 €.
-2. **Bajar las horas por episodio:** de 8 a 5 h semanales los fijos bajan a unos 886 €/mes y el equilibrio a unas 2,5 consultas al mes (886 € / 356 €).
-3. **Atraer antes la audiencia:** con los clips en el canal Rafa Aguado y la web. Cada mes que se adelanta el paso de 525 escuchas por episodio quita pérdidas.
+### Tres formas de mejorar
+
+1. **Conversión a encargo:** con la consulta descontable del encargo, que es lo que pedía el panel. Pasar del 30% al 40% con 2.250 € suma 5.181 € en el año 1.
+2. **Menos horas por episodio:** no mejora la caja, pero libera capacidad si la agenda aprieta.
+3. **Audiencia antes:** con los clips en el canal Rafa Aguado y la web. Las consultas crecen con las escuchas, y el mes 12 dobla al mes 8 (4,5 consultas frente a 2,25).
 
 ### Condiciones del consejo sobre dinero
 
@@ -235,7 +233,7 @@ Competencia en precio: la primera consulta gratuita de muchos laboralistas y sin
 
 ---
 
-## Unit economics: Derecho sin tapujos: consultas captadas por el podcast (ESTIMACIONES, ver cfo-sources.md)
+## Unit economics: Derecho sin tapujos: consultas captadas por el podcast, VISTA CAJA (el tiempo de Rafa va aparte, ver cfo.md)
 
 Every number below comes from the input file. Nothing is looked up or guessed.
 
@@ -244,53 +242,48 @@ Every number below comes from the input file. Nothing is looked up or guessed.
 | line | per consulta captada |
 | --- | ---: |
 | Price | €725.00 |
-| Tiempo de Rafa en la consulta (0,75 h a 40 €/h) [estimación] | -€30.00 |
-| Coste de llevar el encargo: 50% de los honorarios esperados (30% de 2250 €) [estimación] | -€337.50 |
 | Comisiones de pago [estimación] | -€1.00 |
-| **Contribution** (what each consulta captada leaves to pay the fixed costs) | **€356.50** (49%) |
+| **Contribution** (what each consulta captada leaves to pay the fixed costs) | **€724.00** (100%) |
 
 ### The margin that matters
 
-Fixed costs: €1,406 a month (Tiempo de Rafa produciendo: 8 h/semana a 40 €/h [estimación] €1,386, Alojamiento del podcast y software [estimación] €20).
+Fixed costs: €20 a month (Alojamiento del podcast y software [estimación] €20).
 
 - **Break-even: 1 consulta captadas a day.** Below that you lose money every month.
-- **Profit margin at your plan** (0 a day): **6%** of every sale, after every cost.
+- **Profit margin at your plan** (0 a day): **99%** of every sale, after every cost.
 
 ### Year 1, month by month
 
 | month | consulta captadas a day | revenue | profit | cumulative (after €400 startup) |
 | ---: | ---: | ---: | ---: | ---: |
-| 1 | 0 | €163 | -€1,326 | -€1,726 |
-| 2 | 0 | €272 | -€1,272 | -€2,998 |
-| 3 | 0 | €435 | -€1,192 | -€4,190 |
-| 4 | 0 | €652 | -€1,085 | -€5,275 |
-| 5 | 0 | €870 | -€978 | -€6,254 |
-| 6 | 0 | €1,088 | -€871 | -€7,125 |
-| 7 | 0 | €1,359 | -€738 | -€7,862 |
-| 8 | 0 | €1,631 | -€604 | -€8,466 |
-| 9 | 0 | €1,957 | -€443 | -€8,910 |
-| 10 | 0 | €2,284 | -€283 | -€9,193 |
-| 11 | 0 | €2,719 | -€69 | -€9,262 |
-| 12 | 0 | €3,262 | €198 | -€9,064 |
+| 1 | 0 | €163 | €143 | -€257 |
+| 2 | 0 | €272 | €252 | -€6 |
+| 3 | 0 | €435 | €414 | €409 |
+| 4 | 0 | €652 | €632 | €1,040 |
+| 5 | 0 | €870 | €849 | €1,889 |
+| 6 | 0 | €1,088 | €1,066 | €2,955 |
+| 7 | 0 | €1,359 | €1,338 | €4,293 |
+| 8 | 0 | €1,631 | €1,609 | €5,902 |
+| 9 | 0 | €1,957 | €1,935 | €7,836 |
+| 10 | 0 | €2,284 | €2,261 | €10,097 |
+| 11 | 0 | €2,719 | €2,695 | €12,792 |
+| 12 | 0 | €3,262 | €3,238 | €16,030 |
 
-- **Year 1 operating profit: -€8,664** on €16,693 of revenue.
-- After the €400 startup spend: -€9,064.
-- Startup money earned back: not within year 1.
-- Cash you need before it pays for itself: **€9,262**.
+- **Year 1 operating profit: €16,430** on €16,693 of revenue.
+- After the €400 startup spend: €16,030.
+- Startup money earned back: month 3.
+- Cash you need before it pays for itself: **€400**.
 
 ### What if
 
 | scenario | margin at plan | break-even a day | year 1 profit |
 | --- | ---: | ---: | ---: |
-| Base plan | 6% | 1 | -€8,664 |
-| Price -10% | -4% | 1 | -€10,333 |
-| Volume -20% | -5% | 1 | -€10,305 |
-| Unit costs +15% | -2% | 1 | -€9,936 |
+| Base plan | 99% | 1 | €16,430 |
+| Price -10% | 99% | 1 | €14,761 |
+| Volume -20% | 99% | 1 | €13,096 |
+| Unit costs +15% | 99% | 1 | €16,427 |
 
-### Red flags
-
-- Year 1 loses money on operations (-€8,664).
-- The startup spend is not earned back within year 1.
+No red flags in these numbers. They are only as good as the inputs: check every cost against a real quote.
 
 ## Not done yet
 

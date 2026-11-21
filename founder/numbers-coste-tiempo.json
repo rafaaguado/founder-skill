@@ -1,0 +1,55 @@
+{
+ "business": "Derecho sin tapujos: consultas captadas por el podcast (ESTIMACIONES, ver cfo-sources.md)",
+ "unit": "consulta captada",
+ "price": 725.0,
+ "variable": [
+  {
+   "label": "Tiempo de Rafa en la consulta (0,75 h a 40 €/h) [estimación]",
+   "cost": 30
+  },
+  {
+   "label": "Coste de llevar el encargo: 50% de los honorarios esperados (30% de 2250 €) [estimación]",
+   "cost": 337.5
+  },
+  {
+   "label": "Comisiones de pago [estimación]",
+   "cost": 1
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Tiempo de Rafa produciendo: 8 h/semana a 40 €/h [estimación]",
+   "cost": 1386
+  },
+  {
+   "label": "Alojamiento del podcast y software [estimación]",
+   "cost": 20
+  }
+ ],
+ "startup": [
+  {
+   "label": "Segundo micrófono e interfaz para invitados [estimación]",
+   "cost": 300
+  },
+  {
+   "label": "Portada e identidad del programa [estimación]",
+   "cost": 100
+  }
+ ],
+ "days_per_month": 30,
+ "plan_per_day": 0.15,
+ "ramp_per_day": [
+  0.0075,
+  0.0125,
+  0.02,
+  0.03,
+  0.04,
+  0.05,
+  0.0625,
+  0.075,
+  0.09,
+  0.105,
+  0.125,
+  0.15
+ ]
+}
