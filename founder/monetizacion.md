@@ -28,3 +28,13 @@ Recomendación: **programa dentro de La Biblioteca**, no formato aparte. Un cana
 - Horas de Rafa por episodio (guion, grabación, edición, revisión legal): es el coste principal.
 
 Con 8 a 12 episodios hay datos para correr `/founder-cfo` con números reales en lugar de supuestos.
+
+## El podcast como pieza de la vuelta a redes y web (actualizado 21/11/2026)
+
+Dato de Rafa: hace 7 años tenía redes y web bien posicionadas, lo borró todo hace 3 años, y buena parte de los clientes que hoy llegan referidos vienen de aquella época. Eso cambia cómo hay que valorar el podcast.
+
+- **El podcast no es el negocio, es la fábrica de contenido de la vuelta.** Un episodio semanal de hasta 2 h da materia para 5 a 8 clips (`programas-rafa` §8), un artículo para la web y publicaciones en redes. Sin podcast, la vuelta a redes exige producir cada pieza por separado.
+- **El retorno llega con retraso, y el modelo del CFO no lo recoge.** Los referidos de hoy nacen de una presencia de hace años. Lo que se publique ahora alimenta las referencias de dentro de 2 o 3 años, y eso no cabe en el año 1 del modelo. Es la razón principal para leer el −8.664 € del año 1 como inversión en marca, no como pérdida de un producto.
+- **Qué le pide esto al formato:** que cada episodio sea **encontrable por problema** (título y web por consulta real: "despido improcedente", "fianza que no devuelve el casero"), porque así se posicionaba antes la web y así lo pide el panel. El episodio largo vive en La Biblioteca; los clips y el artículo, en el canal Rafa Aguado y en la web de Orbius Legal, enlazados entre sí.
+- **Qué medir además de consultas:** visitas a la web desde el podcast, búsquedas de marca ("Rafa Aguado abogado") y, en cada consulta nueva, cómo llegó. Así se separa lo que trae el podcast de lo que traen las referencias.
+- **Riesgo propio de la vuelta:** al volver a publicar, todo lo que se dijo antes y lo que se diga ahora queda junto. Las reglas de `riesgos-legales.md` valen también para clips, artículos y redes, no solo para el episodio.

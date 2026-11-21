@@ -17,3 +17,14 @@
 | Audiencia de partida | 0 suscriptores | Rafa, 21/11/2026 |
 | Escuchas por episodio, mes 1 a 12 | 30 → 600 | Estimación de crecimiento de un podcast nuevo sin audiencia |
 | Conversión mensual | 1% de las escuchas por episodio compra algo en el mes | Estimación; el panel dio 0% en frío, así que es optimista al principio |
+
+## Recálculo del 21/11/2026 (modelo consulta + encargo)
+
+| Dato | Valor | Fuente |
+|---|---|---|
+| Honorarios de un encargo | 1.500 a 3.000 € (base 2.250 €) | Rafa, 21/11/2026 |
+| Conversión de consulta a encargo, hoy | Casi el 100%, por referencias | Rafa, 21/11/2026 |
+| Conversión con público del podcast | 30% (escenarios del 20 al 40%) | Estimación: el público frío convierte mucho menos que el referido; el panel puso la confianza como primera objeción |
+| Coste de llevar el encargo | 50% de los honorarios | Estimación, sin dato de horas por encargo |
+| Consultas con origen en el podcast | 0,75% de las escuchas por episodio al mes | Estimación (la misma parte de consultas que en el modelo anterior) |
+| Tiempo de Rafa en la consulta | 0,75 h a 40 €/h | Estimación |
