@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mi despido es urgente y sí voy a ver a un abogado, pero no a uno que acabo de descubrir en un podcast que nadie sigue todavía. Primero le pregunto a ChatGPT y luego busco un laboralista con reseñas, y muchos te hacen la primera consulta gratis o cobran de la indemnización.",
+  "objection": "Pagar 50 euros para que me digan que no tengo caso, a alguien que no sé si sabe de laboral ni conoce mi ciudad, cuando hay despachos que no me cobran por mirarlo.",
+  "would_change_my_mind": "Un episodio concreto sobre despidos que me deje claro que controla el tema, y que los 50 euros se descuenten si sigue con el caso o no se cobren si me dice que no hay nada.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 80,
+  "price_too_expensive": 150
+}

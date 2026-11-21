@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo del casero ya me lo está llevando el sindicato y el seguro de defensa jurídica, gratis. El podcast igual lo escucho algún día, pero no voy a pagar 50 euros a un abogado de Murcia si yo no vivo allí y tengo quien me oriente sin pagar.",
+  "objection": "Ya tengo cobertura gratis, y 50 euros para mí son mucho dinero; además el abogado está en Murcia y yo no, y una consulta online con alguien que no conozco no me da confianza.",
+  "would_change_my_mind": "Que el sindicato o el seguro me dejaran tirado con lo del casero y la primera consulta fuera gratis o casi.",
+  "price_too_cheap": 0,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

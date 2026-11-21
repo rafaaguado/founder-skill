@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Yo no pongo 300 euros de mi bolsillo en un curso online, y en un despacho pequeño como el mío la formación solo sale si la paga el despacho. Con veinte asuntos abiertos tampoco tengo tiempo de escuchar un podcast semanal para que al final me vendan algo.",
+  "objection": "300 euros es mucho para un curso online del que no sé cuántas horas tiene ni si me lo van a pagar. Además no conozco a Rafa ni a Orbius Formación.",
+  "would_change_my_mind": "Que lo pague el despacho, o que la factura sirva para que me lo cubran o me lo bonifiquen como formación.",
+  "price_too_cheap": 30,
+  "price_cheap": 80,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

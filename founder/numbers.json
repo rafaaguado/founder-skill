@@ -1,0 +1,55 @@
+{
+ "business": "Derecho sin tapujos: podcast + consultas Orbius Legal + curso IA (ESTIMACIONES, ver cfo-sources.md)",
+ "unit": "venta (mezcla: 75% consulta a 50 €, 25% curso a 149 €)",
+ "price": 74.75,
+ "variable": [
+  {
+   "label": "Tiempo de Rafa en la consulta (0,75 h a 40 €/h, en el 75% de ventas) [estimación]",
+   "cost": 22.5
+  },
+  {
+   "label": "Comisión de plataforma del curso (10% de 149 €, en el 25% de ventas) [estimación]",
+   "cost": 3.73
+  },
+  {
+   "label": "Comisiones de pago (~2%) [estimación]",
+   "cost": 1.5
+  }
+ ],
+ "fixed_monthly": [
+  {
+   "label": "Tiempo de Rafa produciendo: 8 h/semana a 40 €/h [estimación]",
+   "cost": 1386
+  },
+  {
+   "label": "Alojamiento del podcast y software [estimación]",
+   "cost": 20
+  }
+ ],
+ "startup": [
+  {
+   "label": "Segundo micrófono e interfaz para invitados [estimación]",
+   "cost": 300
+  },
+  {
+   "label": "Portada e identidad del programa [estimación]",
+   "cost": 100
+  }
+ ],
+ "days_per_month": 30,
+ "plan_per_day": 0.2,
+ "ramp_per_day": [
+  0.01,
+  0.0167,
+  0.0267,
+  0.04,
+  0.0533,
+  0.0667,
+  0.0833,
+  0.1,
+  0.12,
+  0.14,
+  0.1667,
+  0.2
+ ]
+}

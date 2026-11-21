@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El podcast gratis igual lo escucho si sale un episodio de alquileres, pero 50 euros por una consulta no los suelto: llevo meses con el casero mirando vídeos y preguntando a ChatGPT, y eso no me cuesta nada.",
+  "objection": "Con lo que gano, 50 euros es mucho para una primera charla que seguramente acabe en 'esto hay que llevarlo' y más dinero. Y encima el despacho está en Murcia; online no sé si me vale igual.",
+  "would_change_my_mind": "Que la primera consulta fuera gratis o que me descontaran los 50 euros si luego me llevan el caso, o que me dijeran claro si tengo derecho a justicia gratuita.",
+  "price_too_cheap": 0,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

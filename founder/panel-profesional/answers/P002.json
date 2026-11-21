@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Con lo que gano y metido en plena preparación del examen, 300 euros por un curso de IA no entra este mes. El podcast quizá lo escuche alguna vez en el coche, pero el colegio ya me ofrece cursos de IA gratis o casi.",
+  "objection": "No veo qué me da este curso que no me dé el del colegio por casi nada, y ahora mismo no tengo ni tiempo ni dinero para otro curso.",
+  "would_change_my_mind": "Que costara menos de 100 euros o que lo financiara el colegio, y ver antes en el podcast un método concreto que me ahorre horas de verdad.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

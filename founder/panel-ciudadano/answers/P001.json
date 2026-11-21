@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Igual escucho algún episodio gratis si me sale el de despidos, pero pagar 50 euros a un abogado de Murcia que no conozco, recién despedida, no. Primero le pregunto a ChatGPT y voy al sindicato, que eso no me cuesta nada.",
+  "objection": "Que la consulta sea el anzuelo: me cobra 50 euros, me dice que tengo caso y luego me quiere sacar más dinero con un pleito que se alarga meses.",
+  "would_change_my_mind": "Que los 50 euros se descontaran si luego me lleva el caso, o que me dijera claro por escrito si el despido es improcedente y cuánto me toca antes de pagar nada más.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

@@ -1,25 +1,35 @@
-# Derecho sin tapujos: primera validación
+# Derecho sin tapujos: validación
 
-**Veredicto de `compile.py`: Incompleto.** Todavía no hay números (`/founder-cfo`) ni panel de compradores (`/founder-consumer`). Es una primera versión con supuestos marcados.
+**Veredicto de `compile.py`: Todavía no.** Cada venta deja margen (47 € por venta, el 63%), pero el año 1 pierde 15.428 € si se valora el tiempo de Rafa, y 0 de los 20 compradores simulados compran.
 
 ## Qué es
 
-Un podcast en el que Rafa Aguado, abogado y profesor de IA, cuenta cómo funciona la justicia por dentro: critica con fuentes lo que hacen bien y mal abogados, jueces, fiscales y legisladores, explica leyes y procesos, enseña IA aplicada al derecho y cierra con "lo que yo haría".
+Un podcast semanal (hasta 2 h: 1 h de entrevista a un profesional y 1 h de divulgación) en el que Rafa Aguado, abogado y profesor de IA, cuenta cómo funciona la justicia por dentro, critica con fuentes, explica leyes y procesos y enseña IA aplicada al derecho. Para dos públicos: el ciudadano con un problema legal y el profesional del derecho.
 
-## Lo que ha salido
+## Los números del veredicto
 
-- **Consejo: 3 FUND IF, nota 4,7/10.** Los tres ven la idea viable, pero no tal como está: son cuatro productos para dos públicos, el "sin tapujos" choca con el honor y la deontología, y no hay oferta de pago con nombre y precio. (`board.md`)
-- **Competencia:** el consejo legal corto está muy ocupado (Distrito Legal, Empleado Informado, millones de seguidores), los podcasts profesionales son neutros (Economist & Jurist, Consejo General) y la crítica vive en hilos de X. El hueco aparente es **formato largo + criterio crítico + IA, firmado por un abogado en ejercicio**. Puede existir porque es caro en riesgo. (`competitors.md`)
-- **Riesgos legales:** viable si se critica la actuación documentada y no a la persona, nunca se imputa un delito sin sentencia firme, se anonimiza a los abogados por defecto, hay lista roja de asuntos propios y el consejo se queda en información general con salida identificada a Orbius Legal. (`riesgos-legales.md`)
-- **Encaje y dinero:** programa **dentro de La Biblioteca** (podría ser su primer programa); clips de consejo en el canal Rafa Aguado; IA para juristas como serie aparte. Orden realista de ingresos: consultas para Orbius Legal, formación de IA, patrocinio. (`monetizacion.md`)
+- **Margen por venta:** 47,02 € (mezcla estimada: 75% consultas a 50 € y 25% cursos a 149 €).
+- **Equilibrio:** unas 30 ventas al mes con 8 h semanales valoradas a 40 €/h. El modelo llega a unas 6 en el mes 12.
+- **Año 1:** −15.428 € contando el tiempo de Rafa, y +1.894 € en caja sin contarlo. El arranque es de 400 €.
 
-## La versión más fuerte
+## Lo que dicen el consejo y el panel
 
-Un eje, "cómo funciona de verdad la justicia, contado desde dentro", con la crítica como gancho y la utilidad como cierre. La IA para juristas va aparte, porque es el público con dinero y no es el mismo que el ciudadano con un problema.
+- **Coinciden en que** el problema es de confianza y de foco, no de precio. El consejo (3 votos "fund if", 4,7/10) pide un solo eje y una oferta con nombre. El panel no compra porque **nadie conoce todavía a Rafa** y porque la oferta llega en frío.
+- **Ciudadano:** la consulta a 50 € está dentro del rango aceptable (de 15 a 60 €). Seis de diez cambiarían si **se descontara del encargo** o fuera gratis cuando no hay caso, y si oyeran un episodio sobre su problema concreto.
+- **Profesional:** el curso a 300 € queda por encima del rango (de 30 a 150 €) para quien paga de su bolsillo. Cuatro de diez comprarían si **lo pagara el despacho o fuera formación bonificable**. Otros piden un aval del colegio o de una universidad.
+- **Discrepan en** la IA: el consejo la ve como el mercado con dinero, pero el profesional individual no paga 300 €. El dinero está en el despacho que paga, no en el abogado suelto.
 
-## Lo que hay que hacer esta semana
+## El mayor riesgo y qué hacer
 
-Responder las preguntas abiertas (audiencia principal, frecuencia, cifras actuales, precios) para poder pasar al panel de compradores y a los números.
+El riesgo es dedicar 8 h a la semana durante un año sin audiencia. La palanca que falta medir es **el valor de un encargo que nace de una consulta**: si es alto, el podcast se paga como captación aunque no sea rentable como producto. La crítica con nombre propio está acotada en `riesgos-legales.md`.
+
+## Qué hace falta para empezar
+
+400 € y tiempo. Antes del formato completo conviene una prueba barata: un piloto de 4 episodios temáticos (despido, alquiler, herencia e IA en el despacho), con una consulta descontable y un taller de IA de menos de 150 €, para medir contactos reales.
+
+## Esta semana
+
+Dime **cuánto factura de media un encargo que nace de una consulta de 50 €** y qué parte de las consultas acaba en encargo. Con ese dato recalculo si el podcast se paga solo como captación.
 
 ---
-Simulaciones y criterio, no previsiones. No es asesoramiento financiero ni fiscal. Las reglas legales necesitan la revisión de Rafa antes de usarse.
+El panel son compradores simulados y los números son proyecciones con estimaciones marcadas (`cfo-sources.md`). No es asesoramiento financiero ni fiscal. Las reglas legales necesitan la revisión de Rafa.

@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "El podcast igual lo escucho si me sale un episodio en LinkedIn, pero 300 euros por un curso online es mucho para lo que gano, y ChatGPT ya lo uso a mi manera. No pago eso a alguien que acabo de descubrir.",
+  "objection": "300 euros es mucho para un curso online, y no sé si me va a enseñar algo que no saque gratis de vídeos y posts de otros juristas.",
+  "would_change_my_mind": "Llevar unas semanas escuchando el podcast y ver que la sección de IA me sirve de verdad en mis escritos; con eso y un precio de lanzamiento por debajo de 150 euros me lo pensaría.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

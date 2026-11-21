@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Olivia",
+  "age": 39,
+  "segment": "Estudiante, máster de acceso u opositor",
+  "income": 14000,
+  "behaviour": "Escéptico",
+  "behaviour_how": "Cree que la IA se inventa sentencias y que pone en riesgo el secreto profesional.",
+  "objection": "El colegio da cursos de IA gratis o muy baratos",
+  "habit": "tu jefe te ha pedido que mires cómo usar la IA en el despacho"
+ },
+ {
+  "id": "P002",
+  "name": "Seth",
+  "age": 38,
+  "segment": "Abogado autónomo o de despacho pequeño",
+  "income": 28000,
+  "behaviour": "Ya usa ChatGPT a su manera",
+  "behaviour_how": "Lo usa para borradores, sin método, y no se fía del todo.",
+  "objection": "El colegio da cursos de IA gratis o muy baratos",
+  "habit": "estás preparando el examen de acceso o unas oposiciones"
+ },
+ {
+  "id": "P003",
+  "name": "Sana",
+  "age": 32,
+  "segment": "Abogado autónomo o de despacho pequeño",
+  "income": 59000,
+  "behaviour": "Aprende gratis en YouTube",
+  "behaviour_how": "Busca tutoriales y no paga cursos online.",
+  "objection": "300 euros es mucho para un curso online",
+  "habit": "tu jefe te ha pedido que mires cómo usar la IA en el despacho"
+ },
+ {
+  "id": "P004",
+  "name": "Nico",
+  "age": 26,
+  "segment": "Abogado autónomo o de despacho pequeño",
+  "income": 32000,
+  "behaviour": "Ya usa ChatGPT a su manera",
+  "behaviour_how": "Lo usa para borradores, sin método, y no se fía del todo.",
+  "objection": "300 euros es mucho para un curso online",
+  "habit": "sigues a juristas en LinkedIn"
+ },
+ {
+  "id": "P005",
+  "name": "Victor",
+  "age": 53,
+  "segment": "Abogado autónomo o de despacho pequeño",
+  "income": 23000,
+  "behaviour": "Formación del colegio",
+  "behaviour_how": "Hace los cursos baratos o gratis del colegio de abogados y poco más.",
+  "objection": "En YouTube lo hay gratis",
+  "habit": "estás preparando el examen de acceso o unas oposiciones"
+ },
+ {
+  "id": "P006",
+  "name": "Grace",
+  "age": 32,
+  "segment": "Administrativo o paralegal de despacho",
+  "income": 26000,
+  "behaviour": "Ya usa ChatGPT a su manera",
+  "behaviour_how": "Lo usa para borradores, sin método, y no se fía del todo.",
+  "objection": "No conozco a este profesor",
+  "habit": "tu jefe te ha pedido que mires cómo usar la IA en el despacho"
+ },
+ {
+  "id": "P007",
+  "name": "Ivy",
+  "age": 54,
+  "segment": "Abogado de despacho mediano o de empresa",
+  "income": 69000,
+  "behaviour": "Formación del colegio",
+  "behaviour_how": "Hace los cursos baratos o gratis del colegio de abogados y poco más.",
+  "objection": "No tengo tiempo para un curso",
+  "habit": "estás preparando el examen de acceso o unas oposiciones"
+ },
+ {
+  "id": "P008",
+  "name": "Nora",
+  "age": 31,
+  "segment": "Estudiante, máster de acceso u opositor",
+  "income": 12000,
+  "behaviour": "Escéptico",
+  "behaviour_how": "Cree que la IA se inventa sentencias y que pone en riesgo el secreto profesional.",
+  "objection": "La IA se inventa sentencias, no me puedo fiar",
+  "habit": "llevas veinte asuntos abiertos y vas justo de tiempo"
+ },
+ {
+  "id": "P009",
+  "name": "Raj",
+  "age": 23,
+  "segment": "Abogado de despacho mediano o de empresa",
+  "income": 59000,
+  "behaviour": "Compra si hay certificado",
+  "behaviour_how": "Valora un diploma que pueda poner en el currículum o en LinkedIn.",
+  "objection": "En YouTube lo hay gratis",
+  "habit": "escuchas podcasts mientras vas al juzgado"
+ },
+ {
+  "id": "P010",
+  "name": "Ruby",
+  "age": 39,
+  "segment": "Abogado autónomo o de despacho pequeño",
+  "income": 45000,
+  "behaviour": "Lo paga el despacho",
+  "behaviour_how": "Solo hace formación si la paga su empresa o despacho.",
+  "objection": "300 euros es mucho para un curso online",
+  "habit": "llevas veinte asuntos abiertos y vas justo de tiempo"
+ }
+]

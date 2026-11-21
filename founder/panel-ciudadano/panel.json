@@ -1,0 +1,87 @@
+{
+ "n": 10,
+ "seed": 21,
+ "customer": {
+  "business": "Derecho sin tapujos (podcast semanal de Rafa Aguado) + consulta en Orbius Legal",
+  "target": "Personas en España, 25 a 65 años, que tienen o han tenido hace poco un problema legal cotidiano (alquiler, trabajo, herencia, multa, separación, consumo) y buscan información en YouTube o en podcasts antes de ir a un abogado. Todas las cifras de dinero de este perfil son euros, no dólares.",
+  "where": "España, online; despacho en Murcia",
+  "age": [
+   25,
+   65
+  ],
+  "segments": [
+   {
+    "name": "Ingresos bajos (asalariado o desempleado)",
+    "share": 0.4,
+    "income": [
+     12000,
+     22000
+    ]
+   },
+   {
+    "name": "Ingresos medios",
+    "share": 0.45,
+    "income": [
+     22000,
+     40000
+    ]
+   },
+   {
+    "name": "Ingresos altos o autónomo con negocio",
+    "share": 0.15,
+    "income": [
+     40000,
+     85000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Lo busca todo antes",
+    "share": 0.25,
+    "how": "Ve vídeos y pregunta a ChatGPT antes de pagar a nadie."
+   },
+   {
+    "name": "Desconfía de los abogados",
+    "share": 0.15,
+    "how": "Cree que los abogados alargan los asuntos para cobrar."
+   },
+   {
+    "name": "Tiene cobertura",
+    "share": 0.15,
+    "how": "Tiene seguro de defensa jurídica, sindicato o asociación que le orienta gratis."
+   },
+   {
+    "name": "Ya tiene abogado de confianza",
+    "share": 0.1,
+    "how": "Llama siempre al mismo abogado, conocido de la familia."
+   },
+   {
+    "name": "Urgente",
+    "share": 0.15,
+    "how": "Tiene un plazo encima y quiere que alguien le diga qué hacer ya."
+   },
+   {
+    "name": "Curioso de la justicia",
+    "share": 0.2,
+    "how": "Escucha podcasts de actualidad y casos judiciales por entretenimiento, sin problema propio ahora."
+   }
+  ],
+  "objections": [
+   "50 euros por una consulta cuando ChatGPT me lo dice gratis",
+   "El abogado está en Murcia y yo no",
+   "No conozco a este abogado de nada",
+   "Mi seguro o mi sindicato ya me lo cubre",
+   "Si me dice que no hay caso habré pagado para nada",
+   "Ahora mismo no tengo ningún problema legal"
+  ],
+  "habits": [
+   "escuchas podcasts en el coche de camino al trabajo",
+   "ves YouTube por la noche en el sofá",
+   "tienes un conflicto con tu casero desde hace meses",
+   "te despidieron hace poco y no sabes si fue legal",
+   "estás con el papeleo de una herencia familiar"
+  ]
+ },
+ "pitch": "Derecho sin tapujos, un podcast semanal gratuito en YouTube y Spotify de Rafa Aguado, abogado en ejercicio y profesor de IA.\nCada episodio cuenta cómo funciona la justicia por dentro: qué hacen bien y mal abogados, jueces, fiscales y legisladores, cómo se hace una demanda o una querella y qué haría él ante problemas comunes.\nEs información general, no un consejo para tu caso.\nAl final de cada episodio: si tienes un problema parecido, puedes pedir una consulta inicial con Rafa en su despacho, Orbius Legal, por 50 euros (online o presencial en Murcia)."
+}

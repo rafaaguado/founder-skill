@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Me acaban de despedir y tengo el plazo encima: no voy a ponerme a escuchar un podcast semanal de cómo funciona la justicia por dentro, necesito que alguien mire mi carta de despido ya. Si busco abogado, busco uno laboralista, no a alguien que encuentro al final de un episodio general.",
+  "objection": "No sé si Rafa sabe de despidos o es más de otras cosas, y muchos laboralistas o el sindicato te hacen la primera consulta gratis; pagar 50 euros sin saber si me va a servir, estando sin trabajo, me cuesta.",
+  "would_change_my_mind": "Encontrar justo un episodio sobre despidos que me dijera en 10 minutos si el mío puede ser improcedente y cuánto plazo tengo, con la consulta online esa misma semana y los 50 euros descontados si luego lleva el caso.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 70,
+  "price_too_expensive": 120
+}

@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Olivia",
+  "age": 41,
+  "segment": "Ingresos medios",
+  "income": 34000,
+  "behaviour": "Desconfía de los abogados",
+  "behaviour_how": "Cree que los abogados alargan los asuntos para cobrar.",
+  "objection": "50 euros por una consulta cuando ChatGPT me lo dice gratis",
+  "habit": "te despidieron hace poco y no sabes si fue legal"
+ },
+ {
+  "id": "P002",
+  "name": "Seth",
+  "age": 40,
+  "segment": "Ingresos bajos (asalariado o desempleado)",
+  "income": 14000,
+  "behaviour": "Lo busca todo antes",
+  "behaviour_how": "Ve vídeos y pregunta a ChatGPT antes de pagar a nadie.",
+  "objection": "50 euros por una consulta cuando ChatGPT me lo dice gratis",
+  "habit": "tienes un conflicto con tu casero desde hace meses"
+ },
+ {
+  "id": "P003",
+  "name": "Sana",
+  "age": 34,
+  "segment": "Ingresos medios",
+  "income": 40000,
+  "behaviour": "Urgente",
+  "behaviour_how": "Tiene un plazo encima y quiere que alguien le diga qué hacer ya.",
+  "objection": "Ahora mismo no tengo ningún problema legal",
+  "habit": "te despidieron hace poco y no sabes si fue legal"
+ },
+ {
+  "id": "P004",
+  "name": "Nico",
+  "age": 28,
+  "segment": "Ingresos bajos (asalariado o desempleado)",
+  "income": 15000,
+  "behaviour": "Lo busca todo antes",
+  "behaviour_how": "Ve vídeos y pregunta a ChatGPT antes de pagar a nadie.",
+  "objection": "Ahora mismo no tengo ningún problema legal",
+  "habit": "estás con el papeleo de una herencia familiar"
+ },
+ {
+  "id": "P005",
+  "name": "Victor",
+  "age": 55,
+  "segment": "Ingresos bajos (asalariado o desempleado)",
+  "income": 12000,
+  "behaviour": "Tiene cobertura",
+  "behaviour_how": "Tiene seguro de defensa jurídica, sindicato o asociación que le orienta gratis.",
+  "objection": "El abogado está en Murcia y yo no",
+  "habit": "tienes un conflicto con tu casero desde hace meses"
+ },
+ {
+  "id": "P006",
+  "name": "Grace",
+  "age": 34,
+  "segment": "Ingresos altos o autónomo con negocio",
+  "income": 80000,
+  "behaviour": "Lo busca todo antes",
+  "behaviour_how": "Ve vídeos y pregunta a ChatGPT antes de pagar a nadie.",
+  "objection": "Si me dice que no hay caso habré pagado para nada",
+  "habit": "te despidieron hace poco y no sabes si fue legal"
+ },
+ {
+  "id": "P007",
+  "name": "Ivy",
+  "age": 56,
+  "segment": "Ingresos medios",
+  "income": 32000,
+  "behaviour": "Ya tiene abogado de confianza",
+  "behaviour_how": "Llama siempre al mismo abogado, conocido de la familia.",
+  "objection": "Mi seguro o mi sindicato ya me lo cubre",
+  "habit": "tienes un conflicto con tu casero desde hace meses"
+ },
+ {
+  "id": "P008",
+  "name": "Nora",
+  "age": 33,
+  "segment": "Ingresos medios",
+  "income": 32000,
+  "behaviour": "Desconfía de los abogados",
+  "behaviour_how": "Cree que los abogados alargan los asuntos para cobrar.",
+  "objection": "No conozco a este abogado de nada",
+  "habit": "ves YouTube por la noche en el sofá"
+ },
+ {
+  "id": "P009",
+  "name": "Raj",
+  "age": 25,
+  "segment": "Ingresos medios",
+  "income": 29000,
+  "behaviour": "Curioso de la justicia",
+  "behaviour_how": "Escucha podcasts de actualidad y casos judiciales por entretenimiento, sin problema propio ahora.",
+  "objection": "El abogado está en Murcia y yo no",
+  "habit": "escuchas podcasts en el coche de camino al trabajo"
+ },
+ {
+  "id": "P010",
+  "name": "Ruby",
+  "age": 41,
+  "segment": "Ingresos bajos (asalariado o desempleado)",
+  "income": 18000,
+  "behaviour": "Curioso de la justicia",
+  "behaviour_how": "Escucha podcasts de actualidad y casos judiciales por entretenimiento, sin problema propio ahora.",
+  "objection": "Ahora mismo no tengo ningún problema legal",
+  "habit": "ves YouTube por la noche en el sofá"
+ }
+]

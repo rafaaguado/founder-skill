@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Con 12.000 euros al año, 300 euros son casi un mes de gastos, y además no me fío de la IA para trabajo jurídico. Igual escucho algún episodio gratis del podcast en el bus, pero el curso no lo compro.",
+  "objection": "La IA se inventa sentencias; si al final tengo que comprobarlo todo yo, no veo para qué pagar 300 euros por aprender a usarla.",
+  "would_change_my_mind": "Ver en el podcast una demostración real de cómo verificar lo que te da la IA para que no se cuele ninguna sentencia inventada, y que hubiera precio de estudiante o pago a plazos por debajo de 100 euros.",
+  "price_too_cheap": 15,
+  "price_cheap": 40,
+  "price_expensive": 90,
+  "price_too_expensive": 150
+}

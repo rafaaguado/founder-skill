@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Ahora mismo estoy con el temario de las oposiciones y no tengo cabeza ni horas para un curso de 300 euros. Si acaso me pondría algún episodio del podcast mientras conduzco, pero pagar, no.",
+  "objection": "No tengo tiempo para un curso, y 300 euros es mucho cuando en el colegio me ofrecen formación gratis o casi gratis sobre IA.",
+  "would_change_my_mind": "Que el curso lo homologara o bonificara el colegio de abogados y fuera corto, de pocas horas, para hacerlo cuando termine las oposiciones.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

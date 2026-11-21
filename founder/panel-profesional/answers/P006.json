@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a Rafa de nada y 300 euros es más de una semana de mi sueldo; antes de pagar eso escucharía unos cuantos episodios gratis a ver si de verdad sabe y si me sirve para un despacho como el mío. Y si es para el trabajo, que lo pague el jefe, no yo.",
+  "objection": "No sé quién es este profesor ni si el curso va a ser práctico para alguien como yo, que hace escritos y papeleo, o si es para abogados que ya saben de esto. Pagar 300 euros de mi bolsillo por algo que me ha encargado mi jefe no tiene sentido.",
+  "would_change_my_mind": "Que el despacho lo pagara o lo pudiera bonificar como formación de empresa (FUNDAE), y haber escuchado antes varios episodios del podcast con ejemplos concretos que me sirvan.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

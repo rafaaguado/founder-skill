@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ahora mismo estoy con el estudio y cada euro cuenta; 300 euros por un curso de IA no entra en mi presupuesto cuando el colegio da cursos baratos o gratis y en YouTube hay de todo. El podcast quizá lo escuche alguna vez si es gratis, pero el curso no.",
+  "objection": "No conozco a Rafa ni a Orbius Formación, y no sé qué me va a dar el curso que no encuentre gratis en YouTube o en el colegio. Además ahora no tengo tiempo, estoy preparando el examen.",
+  "would_change_my_mind": "Que el colegio de abogados lo avalara u ofreciera con descuento fuerte, a menos de 100 euros.",
+  "price_too_cheap": 15,
+  "price_cheap": 50,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "El podcast gratis me lo pondría alguna noche en el sofá, porque los casos judiciales me entretienen, pero la consulta de 50 euros no la pago: ahora mismo no tengo ningún problema legal y con lo que gano no voy a gastar en algo que no necesito.",
+  "objection": "No tengo ningún caso, y 50 euros para mí es mucho dinero. Además estoy lejos de Murcia y no conozco de nada a este abogado.",
+  "would_change_my_mind": "Que me surgiera un problema de verdad, por ejemplo con el casero o en el trabajo, y que antes de pagar hubiera visto varios episodios suyos y me fiara de él.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

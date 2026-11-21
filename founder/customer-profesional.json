@@ -1,0 +1,35 @@
+{
+  "business": "Derecho sin tapujos (podcast semanal de Rafa Aguado) + curso de IA para juristas de Orbius Formación",
+  "target": "Profesionales del derecho en España (abogados, estudiantes y opositores, personal de despacho), 23 a 60 años, que quieren usar la IA en su trabajo y no saben bien cómo hacerlo sin riesgos. Todas las cifras de dinero de este perfil son euros, no dólares.",
+  "where": "España, online",
+  "age": [23, 60],
+  "segments": [
+    {"name": "Abogado autónomo o de despacho pequeño", "share": 0.45, "income": [22000, 60000]},
+    {"name": "Abogado de despacho mediano o de empresa", "share": 0.20, "income": [40000, 90000]},
+    {"name": "Estudiante, máster de acceso u opositor", "share": 0.25, "income": [6000, 18000]},
+    {"name": "Administrativo o paralegal de despacho", "share": 0.10, "income": [17000, 27000]}
+  ],
+  "behaviours": [
+    {"name": "Ya usa ChatGPT a su manera", "share": 0.25, "how": "Lo usa para borradores, sin método, y no se fía del todo."},
+    {"name": "Escéptico", "share": 0.15, "how": "Cree que la IA se inventa sentencias y que pone en riesgo el secreto profesional."},
+    {"name": "Formación del colegio", "share": 0.20, "how": "Hace los cursos baratos o gratis del colegio de abogados y poco más."},
+    {"name": "Aprende gratis en YouTube", "share": 0.15, "how": "Busca tutoriales y no paga cursos online."},
+    {"name": "Lo paga el despacho", "share": 0.10, "how": "Solo hace formación si la paga su empresa o despacho."},
+    {"name": "Compra si hay certificado", "share": 0.15, "how": "Valora un diploma que pueda poner en el currículum o en LinkedIn."}
+  ],
+  "objections": [
+    "El colegio da cursos de IA gratis o muy baratos",
+    "En YouTube lo hay gratis",
+    "La IA se inventa sentencias, no me puedo fiar",
+    "No tengo tiempo para un curso",
+    "No conozco a este profesor",
+    "300 euros es mucho para un curso online"
+  ],
+  "habits": [
+    "escuchas podcasts mientras vas al juzgado",
+    "llevas veinte asuntos abiertos y vas justo de tiempo",
+    "estás preparando el examen de acceso o unas oposiciones",
+    "tu jefe te ha pedido que mires cómo usar la IA en el despacho",
+    "sigues a juristas en LinkedIn"
+  ]
+}

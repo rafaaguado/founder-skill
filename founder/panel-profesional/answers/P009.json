@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El podcast me lo pondría de camino al juzgado porque es gratis, pero 300 euros por un curso de alguien a quien acabo de descubrir es mucho, y en YouTube hay mil vídeos de IA para abogados. Además no dice nada de que den un certificado o un diploma que pueda poner en LinkedIn.",
+  "objection": "No sé si me van a dar un certificado que valga algo en el currículum, y no sé qué me enseña este curso que no pueda sacar gratis de YouTube o del propio podcast.",
+  "would_change_my_mind": "Que el curso diera un certificado con respaldo serio (un colegio de abogados o una universidad) que pueda poner en LinkedIn, y haber escuchado varios episodios antes para fiarme de Rafa.",
+  "price_too_cheap": 30,
+  "price_cheap": 90,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

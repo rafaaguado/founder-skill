@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "El podcast igual me lo pongo en el coche si los casos están bien contados, porque es gratis y me va el tema. Pero ahora mismo no tengo ningún problema legal, así que no voy a pagar 50 euros por una consulta.",
+  "objection": "No tengo un caso, y el día que lo tenga el abogado está en Murcia y yo no. Online quizá, pero preferiría a alguien de mi ciudad que conozca los juzgados de aquí.",
+  "would_change_my_mind": "Tener un problema real, por ejemplo con el casero o en el trabajo, y que Rafa ya me hubiera ganado la confianza tras meses escuchándole y explicándolo claro.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 100
+}

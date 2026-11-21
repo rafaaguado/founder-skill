@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Me veré algún episodio del podcast si la sección de IA es práctica, porque es gratis y mi jefe me ha pedido que mire esto. Pero 300 euros de mi bolsillo por un curso online no los pago cuando en YouTube hay tutoriales de IA para abogados.",
+  "objection": "300 euros es mucho para un curso online, y no sé qué me va a enseñar que no encuentre gratis. Si es para el despacho, que lo pague el despacho.",
+  "would_change_my_mind": "Que lo pague el despacho, o que el podcast me demuestre que lo del secreto profesional y la protección de datos no lo explica nadie gratis y bien.",
+  "price_too_cheap": 20,
+  "price_cheap": 50,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}
