@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "La parte de licitud, RGPD y que el informe aguante la ratificación es justo lo que me quita el sueño, pero el sábado es mi día fuerte de seguimientos de bajas y perder viernes tarde y sábado entero, más 450 € y el viaje a Murcia, es demasiado para alguien que trabaja solo y gana lo que gano.",
+  "objection": "No es solo el precio: es el sábado que no facturo, el desplazamiento y que sea presencial. Además no sé si un curso de IA me va a ahorrar algún disgusto real con la AEPD o en sala, o si me va a enseñar herramientas que luego no me atrevo a usar.",
+  "would_change_my_mind": "Que hubiera una edición online o en días laborables (o grabada) para no perder el sábado, y un precio más cerca de 250 €; con eso el protocolo de licitud sí me lo compraría.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 400
+}

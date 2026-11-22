@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mi formación la hago en el colegio, gratis o casi, y antes de pagar esperaría a ver si el colegio saca algo de IA. 290 € más IVA, que salen de mi bolsillo, por un curso de alguien que no conozco es mucho para mí.",
+  "objection": "Las herramientas cambian cada mes; dentro de seis meses los prompts y la mitad del curso se habrán quedado viejos, y yo habré pagado casi 350 € con IVA.",
+  "would_change_my_mind": "Que lo ofreciera mi colegio de abogados con precio de colegiado, por debajo de 100 €, o con actualizaciones incluidas de la biblioteca de prompts durante un año.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 140,
+  "price_too_expensive": 220
+}

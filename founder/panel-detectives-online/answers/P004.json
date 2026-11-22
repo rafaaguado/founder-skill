@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Lo imparte un abogado, y los abogados no saben cómo se investiga en la calle; son los que nos piden imposibles. Llevo media vida en esto y no voy a pagar 290 € para que me explique mi oficio alguien que nunca ha hecho un seguimiento.",
+  "objection": "Que sea un abogado diciéndome lo que no puedo hacer y vendiéndome prompts, sin haber pisado la calle ni ratificado un informe como detective. Además son martes y jueves por la tarde, justo cuando hay trabajo de campo.",
+  "would_change_my_mind": "Que lo diera junto a un detective con TIP y años de oficio, con casos reales de agencia y algún compañero de confianza que me diga que le ha servido de verdad.",
+  "price_too_cheap": 50,
+  "price_cheap": 100,
+  "price_expensive": 200,
+  "price_too_expensive": 300
+}

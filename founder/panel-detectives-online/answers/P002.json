@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Con el volumen de casos que llevo en la agencia no veo claro que 290 € más doce horas mías se me devuelvan en horas de informe ahorradas. Además, martes y jueves de 17 a 20 h es justo cuando muchas veces estoy en un seguimiento o cerrando informes.",
+  "objection": "No sé si lo amortizo: no me dicen cuántas horas de informe me voy a ahorrar ni en qué casos concretos, y lo de que lo dé un abogado y no un detective me hace dudar de que conozca cómo trabajamos en la calle.",
+  "would_change_my_mind": "Ver con un caso real de agencia pequeña cuánto tiempo se ahorra en un informe con el método, por ejemplo una baja laboral, y que la grabación me deje hacerlo a mi ritmo sin depender del horario en directo.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

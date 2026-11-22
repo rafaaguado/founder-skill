@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya llevo dos o tres cursos de IA y el temario suena a lo que ya he visto: prompts, contratos, jurisprudencia y RGPD. No conozco a Rafa Aguado ni le encuentro trayectoria pública, así que no le doy un viernes por la tarde y un sábado entero sin saber si va a estar por encima de lo que ya sé.",
+  "objection": "Que sea un curso de iniciación con otro nombre y que el ponente no tenga más nivel que yo. Lo de 'intensivo' y 'práctico' lo dicen todos.",
+  "would_change_my_mind": "Ver el programa detallado con un nivel avanzado de verdad (flujos de trabajo, automatizaciones, casos complejos) y alguna referencia de compañeros que lo hayan hecho; y si el despacho lo paga o lo bonifica por FUNDAE, me lo pensaría mucho más.",
+  "price_too_cheap": 90,
+  "price_cheap": 180,
+  "price_expensive": 350,
+  "price_too_expensive": 550
+}

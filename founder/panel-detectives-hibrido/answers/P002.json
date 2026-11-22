@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Con los casos que entran en mi agencia no veo claro que 290 € más IVA y un fin de semana entero me los devuelva en horas de informe ahorradas. Murcia me pilla lejos desde Andalucía, así que solo me plantearía el online, y aun así lo dejo pasar por ahora.",
+  "objection": "No sé cuántas horas de informe me va a ahorrar de verdad a la semana; si no lo amortizo en unos meses, es dinero y un fin de semana perdidos.",
+  "would_change_my_mind": "Ver un ejemplo concreto, con un caso real, de cuánto se reduce el tiempo de redactar un informe con la biblioteca de prompts, o que algún colega de otra agencia pequeña me diga que le ha ahorrado horas.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

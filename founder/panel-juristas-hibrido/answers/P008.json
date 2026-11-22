@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mi formación la hago en el colegio, gratis o casi, y 290 € más IVA por un online es mucho para lo que gano. Lo presencial ni me lo planteo, Murcia me queda lejísimos.",
+  "objection": "Las herramientas cambian cada mes; en dos meses lo que me enseñen de ChatGPT o Copilot estará viejo y la grabación solo dura 60 días.",
+  "would_change_my_mind": "Que lo ofreciera mi colegio de abogados con precio de colegiado, por debajo de 100 €, y con actualizaciones de la biblioteca de prompts.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

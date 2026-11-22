@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Yo me paso el día en la calle haciendo seguimientos; los informes y las búsquedas en fuentes abiertas los lleva más la oficina. Pagar 350 € de mi bolsillo y perder un fin de semana entero para algo que apenas voy a usar con mi volumen de casos no me sale.",
+  "objection": "No lo amortizo: soy asalariada, no cobro más por saber IA, y si a la agencia le interesa que la paguen ellos y me lo cuenten como horas de trabajo, no mi fin de semana libre.",
+  "would_change_my_mind": "Que mi empresa me lo pagara y me diera libre ese tiempo, o que hubiera una parte práctica muy concreta de cómo la IA me ahorra trabajo en el informe de seguimiento y en preparar la ratificación.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

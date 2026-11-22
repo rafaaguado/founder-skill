@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a este Rafa Aguado de nada y no le encuentro trayectoria pública, así que no le doy 450 € más IVA, más gasolina y un fin de semana entero yendo a Murcia. Con lo que gano, eso es mucho dinero para algo que el ChatGPT gratis ya me medio resuelve.",
+  "objection": "Que sea un curso más de alguien que se ha subido a la moda de la IA, y que me pase el viernes por la tarde y el sábado entero fuera del despacho para volver con cuatro prompts que podría haber buscado en internet.",
+  "would_change_my_mind": "Que me lo recomendara un compañero de confianza que ya lo haya hecho, o que lo organizara y subvencionara el Colegio de Abogados con un precio bastante más bajo.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 320
+}

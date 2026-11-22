@@ -1,0 +1,150 @@
+{
+ "business": "Academia Orbius de IA para juristas (curso intensivo de IA práctica para el despacho)",
+ "seed": 22,
+ "dealt": 10,
+ "answered": 10,
+ "skipped": [],
+ "buys": 0,
+ "passes": 10,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Socio/a de despacho pequeño (2-10 personas)",
+   3,
+   0.0
+  ],
+  [
+   "Personal no abogado de despacho o graduado social",
+   1,
+   0.0
+  ],
+  [
+   "Abogado/a asociado o asalariado en despacho mediano (el despacho puede pagar o bonificar por FUNDAE)",
+   2,
+   0.0
+  ],
+  [
+   "Abogado/a individual en ejercicio, paga de su bolsillo",
+   4,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Compra por referencia",
+   2,
+   0.0
+  ],
+  [
+   "Fin de semana sagrado",
+   1,
+   0.0
+  ],
+  [
+   "Fiel al colegio",
+   2,
+   0.0
+  ],
+  [
+   "Pionero tecnológico",
+   1,
+   0.0
+  ],
+  [
+   "Escéptico",
+   2,
+   0.0
+  ],
+  [
+   "Usuario sin método",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$45,000 and up",
+   4,
+   0.0
+  ],
+  [
+   "under $35,000",
+   3,
+   0.0
+  ],
+  [
+   "$35,000 to $45,000",
+   3,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   6,
+   [
+    "No conozco a Rafa Aguado ni me lo ha recomendado ningún compañero, y yo solo pago formación de ponentes que me avala alguien de confianza. Encima es un fin de semana entero fuera de casa y del despacho, y lo de los prompts creo que lo saco gratis en YouTube.",
+    "No conozco a Rafa Aguado ni le he visto en ningún sitio, y yo la formación la hago en el ICAV a precio de colegiado. Pagar 350 € más IVA de mi bolsillo, con lo que gano, y perder un fin de semana entero por alguien de quien no tengo referencias no me cuadra."
+   ],
+   [
+    "P001",
+    "P003"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Me quita un fin de semana entero, de viernes a domingo, y los fines de semana son de mis hijos; no los cambio por un curso. Además, el colegio ya me ofrece formación en IA más barata o gratis y entre semana."
+   ],
+   [
+    "P002"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Si el colegio me da cursos de IA baratos o gratis, no voy a pagar 350 € de mi bolsillo y perder un fin de semana entero, de viernes a domingo, en un hotel. Solo iría si el despacho lo paga por FUNDAE, y aun así me costaría regalar el fin de semana."
+   ],
+   [
+    "P006"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Lo tengo a diez minutos y el tema me interesa, porque uso ChatGPT a diario sin fiarme. Pero meterme un fin de semana entero, de viernes a domingo, después de una semana de despacho, no lo veo ahora mismo."
+   ],
+   [
+    "P007"
+   ]
+  ],
+  [
+   "habit",
+   1,
+   [
+    "Mi formación la hago en el colegio, gratis o casi, y 350 € más un fin de semana entero sin ver a los míos es mucho para lo que gano. Si el colegio saca algo de IA, que lo sacará, voy a eso."
+   ],
+   [
+    "P008"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Que un compañero de confianza que ya lo haya hecho me lo recomiende y me diga que el protocolo de secreto profesional y RGPD le ha servido de verdad en su despacho.",
+  "Un formato en diferido o en tardes entre semana, en línea, con la biblioteca de prompts y el protocolo para el despacho incluidos.",
+  "Que lo organizara o lo homologara el Colegio de Abogados de Valencia con precio de colegiado y que el despacho me lo pagara, o que compañeros de confianza que ya lo hayan hecho me lo recomendaran.",
+  "Ver antes al ponente en una charla gratuita o un webinar corto donde enseñe algo que yo no sepa hacer ya, con un temario avanzado detallado, y que el despacho lo pueda bonificar por FUNDAE.",
+  "Que un compañero de confianza que ya haya hecho el curso me diga que le sirvió y que el protocolo de RGPD y secreto profesional es serio y aplicable a un despacho pequeño.",
+  "Que el despacho lo pague entero vía FUNDAE y que el programa enseñe en concreto cómo verificar cada cita y cada sentencia que saca la IA, con ejemplos de errores reales.",
+  "Que fuera en formato más corto, por ejemplo dos tardes entre semana o solo el sábado, y que alguien de confianza me dijera que la biblioteca de prompts y el protocolo le funcionan en su despacho.",
+  "Que lo homologue mi colegio o que incluya actualizaciones durante un año (prompts y protocolo revisados), a un precio de colegiado por debajo de 200 € y sin quemar el fin de semana completo.",
+  "Que un compañero de mi colegio que lo haya hecho me diga que le sirvió de verdad, y ver un temario que dedique tiempo serio a verificar citas y jurisprudencia, no solo a prompts. Con eso y en formato de un solo día, me lo pensaría.",
+  "Que me lo recomendara un compañero de confianza que haya ido, o poder ver antes una sesión gratuita corta y online del ponente para comprobar que sabe de lo que habla."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No me fío de usar IA en escritos que van a un juez después de leer los casos de sentencias inventadas, y 350 € más un fin de semana entero es mucho para algo que creo que puedo ir aprendiendo gratis en YouTube. Al ponente no lo conozco de nada.",
+  "objection": "Que me enseñen a sacar escritos más rápido y que luego cuele una cita falsa o una sentencia que no existe y quede en ridículo ante el juzgado o ante el cliente. Además, perder viernes tarde, sábado y domingo cuando ya voy justo de tiempo.",
+  "would_change_my_mind": "Que un compañero de mi colegio que lo haya hecho me diga que le sirvió de verdad, y ver un temario que dedique tiempo serio a verificar citas y jurisprudencia, no solo a prompts. Con eso y en formato de un solo día, me lo pensaría.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

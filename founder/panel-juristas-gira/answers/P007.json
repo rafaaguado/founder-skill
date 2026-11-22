@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Lo tengo a diez minutos y el tema me interesa, porque uso ChatGPT a diario sin fiarme. Pero meterme un fin de semana entero, de viernes a domingo, después de una semana de despacho, no lo veo ahora mismo.",
+  "objection": "Veinte horas en un fin de semana completo me parece muchísimo tiempo. No sé si de verdad voy a salir con algo que aplique el lunes o con teoría que ya podría ver en un vídeo.",
+  "would_change_my_mind": "Que fuera en formato más corto, por ejemplo dos tardes entre semana o solo el sábado, y que alguien de confianza me dijera que la biblioteca de prompts y el protocolo le funcionan en su despacho.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

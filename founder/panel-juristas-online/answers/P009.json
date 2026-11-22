@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a Rafa Aguado y 290 € más IVA de mi bolsillo por algo que en buena parte puedo sacar de YouTube y de probar yo mismo me parece mucho. Además, después de leer lo de los abogados que citaron sentencias inventadas, no me fío de meter la IA en mis escritos solo porque me lo cuente un curso.",
+  "objection": "Que me enseñen a usar ChatGPT con cuatro prompts bonitos pero sin un método serio para verificar la jurisprudencia, y acabe presentando algo falso ante un juez. Y no sé quién es el profesor ni si es solvente.",
+  "would_change_my_mind": "Ver una sesión de muestra gratuita donde enseñe en directo cómo detecta y verifica una sentencia inventada, o que el curso venga avalado por mi Colegio de Abogados con descuento para colegiados.",
+  "price_too_cheap": 30,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "La parte de licitud, RGPD y Reglamento de IA me interesa de verdad, porque es lo que me quita el sueño con los informes. Pero 290 € de mi bolsillo y un fin de semana entero para que un abogado me cuente cómo investigar no me cuadra; Murcia desde Barcelona ni me lo planteo.",
+  "objection": "Un abogado sabe lo que tumba un informe en sala, pero no sabe cómo se trabaja en la calle ni con los plazos de una aseguradora. Me temo que la parte práctica de IA sea genérica y que el 'protocolo de licitud' sea teoría que yo ya conozco de la Ley de Seguridad Privada.",
+  "would_change_my_mind": "Que lo pague la empresa como formación, o que en el curso participe un detective con TIP en activo que haya ratificado informes hechos con estas herramientas, y ver antes un temario detallado o una muestra de los casos reales.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 350
+}

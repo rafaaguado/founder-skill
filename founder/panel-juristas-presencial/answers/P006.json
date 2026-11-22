@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "450 € más IVA, más gasolina y un sábado entero en Murcia, cuando el Colegio de Alicante saca cursos de IA por mucho menos o gratis. De mi bolsillo no lo pago, y en el despacho no me lo van a aprobar solo porque yo lo pida.",
+  "objection": "Lo que he leído es que la IA se inventa sentencias, y no me veo citando ante un juez algo que no existe. No tengo claro que en 12 horas se aprenda a fiarse de esto, ni que sea mejor que lo del Colegio.",
+  "would_change_my_mind": "Que el despacho lo pagara entero o lo bonificara por FUNDAE y que el programa dedicara una parte clara a cómo comprobar cada cita y cada sentencia antes de usarla.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

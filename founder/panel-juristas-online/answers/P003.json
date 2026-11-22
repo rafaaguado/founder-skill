@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mi formación la hago en el Colegio de Valencia, gratis o a precio de colegiado, y ahí ya salen jornadas de IA de vez en cuando. 290 € más IVA para un curso de alguien que no conozco, siendo yo personal del despacho y no abogada, es mucho dinero para mí.",
+  "objection": "No conozco a este ponente y no le veo presencia pública; no sé si es bueno o solo uno más vendiendo cursos de IA. Además, doce horas de tarde en dos semanas, de 17 a 20 h, me cuesta encajarlas.",
+  "would_change_my_mind": "Que lo organizara u homologara el Colegio de Abogados de Valencia con precio de colegiado, o que el despacho me lo pagara como formación.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

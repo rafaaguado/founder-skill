@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Ir a Murcia me cuesta el viernes por la tarde, que es cuando más bajas vigilo, más viaje, hotel y los 450 €. Encima la parte de OSINT seguramente ya la domino, así que pagaría sobre todo por lo legal y por los prompts.",
+  "objection": "Que acabe pagando 450 € más desplazamiento y un día sin facturar para que me cuenten búsquedas en fuentes abiertas que ya hago yo mejor que muchos formadores.",
+  "would_change_my_mind": "Una versión online o grabada, más barata, centrada en la licitud, el RGPD, el Reglamento de IA y cómo defender en la ratificación un informe hecho con IA.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

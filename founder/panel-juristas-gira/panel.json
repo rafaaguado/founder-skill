@@ -1,0 +1,105 @@
+{
+ "n": 10,
+ "seed": 22,
+ "customer": {
+  "business": "Academia Orbius de IA para juristas (curso intensivo de IA práctica para el despacho)",
+  "target": "Abogados en ejercicio y personal de despachos pequeños y medianos de España, sobre todo del sureste, que usan algo de IA sin método o aún no la usan",
+  "where": "España; sede presencial en Murcia",
+  "age": [
+   27,
+   62
+  ],
+  "currency": "EUR",
+  "segments": [
+   {
+    "name": "Abogado/a individual en ejercicio, paga de su bolsillo",
+    "share": 0.4,
+    "income": [
+     22000,
+     50000
+    ]
+   },
+   {
+    "name": "Socio/a de despacho pequeño (2-10 personas)",
+    "share": 0.3,
+    "income": [
+     40000,
+     95000
+    ]
+   },
+   {
+    "name": "Abogado/a asociado o asalariado en despacho mediano (el despacho puede pagar o bonificar por FUNDAE)",
+    "share": 0.2,
+    "income": [
+     26000,
+     48000
+    ]
+   },
+   {
+    "name": "Personal no abogado de despacho o graduado social",
+    "share": 0.1,
+    "income": [
+     19000,
+     34000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Usuario sin método",
+    "share": 0.22,
+    "how": "Usa ChatGPT gratis a diario para borradores, pero no se fía del resultado y no tiene un sistema."
+   },
+   {
+    "name": "Escéptico",
+    "share": 0.18,
+    "how": "Ha leído que la IA se inventa sentencias y teme hacer el ridículo ante un juez."
+   },
+   {
+    "name": "Fiel al colegio",
+    "share": 0.18,
+    "how": "Su formación la hace casi siempre en el colegio de abogados, gratis o a precio de colegiado."
+   },
+   {
+    "name": "Compra por referencia",
+    "share": 0.15,
+    "how": "Solo paga cursos de ponentes que conoce o que le recomienda un compañero."
+   },
+   {
+    "name": "Fin de semana sagrado",
+    "share": 0.12,
+    "how": "Tiene hijos o mucha carga; protege los sábados y prefiere formarse entre semana o en diferido."
+   },
+   {
+    "name": "Pionero tecnológico",
+    "share": 0.1,
+    "how": "Ya ha hecho dos o tres cursos de IA y busca algo más avanzado y aplicado."
+   },
+   {
+    "name": "Gestor de equipo",
+    "share": 0.05,
+    "how": "Busca formación para todo su equipo, a ser posible bonificable."
+   }
+  ],
+  "objections": [
+   "El colegio de abogados ya ofrece cursos de IA más baratos o gratis",
+   "No conozco a este ponente y no tiene presencia pública",
+   "Mi fin de semana es para la familia o para sacar trabajo atrasado",
+   "Las herramientas cambian cada mes y el curso se quedará viejo",
+   "Me preocupa vulnerar el secreto profesional o el RGPD al usar IA",
+   "Esto lo puedo aprender gratis en YouTube",
+   "Tendría que desplazarme a Murcia"
+  ],
+  "habits": [
+   "tienes el despacho en Murcia capital, a 10 minutos de cualquier aula",
+   "trabajas en Cartagena o Lorca, a unos 45-60 minutos de Murcia en coche",
+   "tu despacho está en Alicante o Elche, a algo más de una hora de Murcia",
+   "ejerces en Madrid y solo viajas por juicios",
+   "ejerces en Valencia",
+   "ejerces en Almería o Granada",
+   "ejerces en una capital del norte de España, lejos de Murcia",
+   "haces casi todas tus reuniones por videollamada desde la pandemia"
+  ]
+ },
+ "pitch": "Curso intensivo «IA práctica para el despacho»: redactar y revisar escritos y contratos, buscar y contrastar jurisprudencia y preparar casos con Claude, ChatGPT y Copilot, sin vulnerar el secreto profesional ni el RGPD.\nIncluye búsqueda en fuentes abiertas (OSINT). Te llevas una biblioteca de prompts por tarea, un protocolo de uso de IA para tu despacho y casos reales anonimizados.\nImparte Rafa Aguado, abogado en ejercicio (derecho tecnológico, IA, protección de datos) y profesor de IA para empresas y profesionales.\nFormato: gira presencial por provincias. La edición se celebra en un hotel de tu provincia, de viernes a las 16 h a domingo a las 18 h (unas 20 horas), en grupo de máximo 25 personas. Precio: 350 € + IVA solo el curso, o 600 € + IVA con alojamiento de dos noches en el mismo hotel y comidas."
+}

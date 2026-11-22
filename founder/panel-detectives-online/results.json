@@ -1,0 +1,137 @@
+{
+ "business": "Academia Orbius de IA para detectives privados (curso intensivo de IA aplicada a la investigación privada)",
+ "seed": 22,
+ "dealt": 10,
+ "answered": 10,
+ "skipped": [],
+ "buys": 0,
+ "passes": 10,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Titular de agencia pequeña (2-5 detectives)",
+   3,
+   0.0
+  ],
+  [
+   "Detective en plantilla de agencia, aseguradora o empresa",
+   2,
+   0.0
+  ],
+  [
+   "Detective autónomo/a que trabaja solo",
+   5,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Compra en la asociación",
+   1,
+   0.0
+  ],
+  [
+   "Cuenta horas",
+   2,
+   0.0
+  ],
+  [
+   "Obsesionado con la licitud",
+   2,
+   0.0
+  ],
+  [
+   "Desconfía de los abogados",
+   1,
+   0.0
+  ],
+  [
+   "De campo",
+   3,
+   0.0
+  ],
+  [
+   "OSINT avanzado",
+   1,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$33,000 and up",
+   4,
+   0.0
+  ],
+  [
+   "$28,000 to $33,000",
+   3,
+   0.0
+  ],
+  [
+   "under $28,000",
+   3,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "need",
+   6,
+   [
+    "Con el volumen de casos que llevo en la agencia no veo claro que 290 € más doce horas mías se me devuelvan en horas de informe ahorradas. Además, martes y jueves de 17 a 20 h es justo cuando muchas veces estoy en un seguimiento o cerrando informes.",
+    "Lo mío son custodias y familia, y no veo claro que esto me quite horas de informe ni me traiga un caso más. 290 € más doce horas de tarde que dejo de facturar, sin acreditación ni puntos, no me salen las cuentas."
+   ],
+   [
+    "P002",
+    "P005"
+   ]
+  ],
+  [
+   "trust",
+   2,
+   [
+    "Lo de la licitud y la AEPD me interesa de verdad, pero esto lo da un abogado y no un detective. Un abogado no sabe cómo se investiga en la calle, y no voy a soltar 290 € de mi bolsillo por que me enseñe a hacer mi trabajo alguien que no lo ha hecho.",
+    "Lo imparte un abogado, y los abogados no saben cómo se investiga en la calle; son los que nos piden imposibles. Llevo media vida en esto y no voy a pagar 290 € para que me explique mi oficio alguien que nunca ha hecho un seguimiento."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   1,
+   [
+    "Que sea online me quita el viaje, eso sí, pero yo la formación la hago con la asociación, en jornadas, y no suelo pagar 290 € a alguien de fuera por mi cuenta. Además, de martes y jueves de 17 a 20 h muchas veces estoy en la calle con un seguimiento de una baja y no lo puedo dejar."
+   ],
+   [
+    "P001"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Me gusta que hable claro de lo que no se puede hacer y que sea entre semana y con grabación, pero con lo que facturo 290 € más IVA es casi lo que saco de un informe de baja, y no conozco de nada al ponente."
+   ],
+   [
+    "P008"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Que lo organizara o lo recomendara mi asociación, con precio de asociado y con casos prácticos de bajas laborales para mutuas y aseguradoras.",
+  "Ver con un caso real de agencia pequeña cuánto tiempo se ahorra en un informe con el método, por ejemplo una baja laboral, y que la grabación me deje hacerlo a mi ritmo sin depender del horario en directo.",
+  "Que lo imparta junto a un detective con TIP en activo que haya ratificado informes en juicio, o que mi empresa lo pague como formación.",
+  "Que lo diera junto a un detective con TIP y años de oficio, con casos reales de agencia y algún compañero de confianza que me diga que le ha servido de verdad.",
+  "Ver un ejemplo concreto de un caso de custodia donde la IA me ahorre medio día de informe, o que alguien de confianza del gremio me diga que le ha cambiado la forma de trabajar.",
+  "Que lo pagara la empresa o que me lo pidieran en la agencia; entonces lo haría, sobre todo si puedo ver las grabaciones cuando salgo de un servicio.",
+  "Que me demostraran que se puede usar sin que los datos de mis casos salgan de mi ordenador y que con eso redacto los informes en la mitad de tiempo, a un precio de unos 120-150 €.",
+  "Una sesión gratuita o un extracto del protocolo de licitud para ver que es serio, o que bajara a unos 150 €.",
+  "Un módulo suelto, más corto y más barato, centrado solo en licitud de la prueba, Reglamento de IA y cómo redactar informes de bajas para mutuas que aguanten en juicio, o ver el temario detallado y comprobar que el OSINT es de nivel avanzado de verdad.",
+  "Que lo diera o lo codirigiera un detective con TIP en activo, con ejemplos de casos de campo como bajas fingidas o seguimientos, y a menos de 150 euros."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 10
+}

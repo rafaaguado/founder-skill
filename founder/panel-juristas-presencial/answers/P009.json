@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Ir a Murcia desde el norte supone un viernes de tarde sin despacho, viaje y hotel, que sumados a los 450 € se van casi al doble. Para algo que todavía me da miedo usar y que en parte veo gratis en YouTube, no me compensa.",
+  "objection": "Que la IA me invente una sentencia y la acabe citando ante un juez; no tengo claro que un curso de doce horas me quite ese riesgo, y encima tengo que cruzar media España para hacerlo.",
+  "would_change_my_mind": "Una versión online o en directo por videollamada a un precio más bajo, con una parte concreta y demostrada sobre cómo verificar cada cita de jurisprudencia antes de usarla.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

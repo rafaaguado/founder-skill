@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "El tema me toca de lleno, sobre todo lo del secreto profesional y el RGPD, pero a Rafa Aguado no lo conozco y ningún compañero me lo ha recomendado. Yo no pago 290 € más IVA por un anuncio que me sale en el móvil.",
+  "objection": "No sé quién es el ponente ni si de verdad domina la parte de protección de datos. Me da miedo pagar un fin de semana entero para que me enseñen prompts que encuentro gratis y que lo del RGPD se quede en cuatro avisos genéricos.",
+  "would_change_my_mind": "Que un compañero de confianza que lo haya hecho me diga que merece la pena, o que el colegio de abogados lo avale u organice.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

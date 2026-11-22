@@ -1,0 +1,4 @@
+Curso intensivo «IA para la investigación privada»: búsqueda en fuentes abiertas asistida por IA, análisis de documentos, audios y redes, cronologías e informes que aguanten la ratificación en juicio. Incluye lo que no se puede hacer: reconocimiento facial, intimidad, RGPD y prácticas prohibidas por el Reglamento europeo de IA.
+Te llevas una biblioteca de prompts por tarea, un protocolo de licitud para tu agencia y casos reales anonimizados. 12 horas en total. Es formación complementaria, no habilitante.
+Imparte Rafa Aguado, abogado en ejercicio (penal, protección de datos, derecho tecnológico) y profesor de IA.
+Formato: todo online en directo por Zoom, cuatro sesiones de 3 horas (martes y jueves de 17 a 20 h durante dos semanas), con participación y grabación durante 60 días. Precio: 290 € + IVA.

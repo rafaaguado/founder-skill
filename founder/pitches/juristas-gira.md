@@ -1,0 +1,4 @@
+Curso intensivo «IA práctica para el despacho»: redactar y revisar escritos y contratos, buscar y contrastar jurisprudencia y preparar casos con Claude, ChatGPT y Copilot, sin vulnerar el secreto profesional ni el RGPD.
+Incluye búsqueda en fuentes abiertas (OSINT). Te llevas una biblioteca de prompts por tarea, un protocolo de uso de IA para tu despacho y casos reales anonimizados.
+Imparte Rafa Aguado, abogado en ejercicio (derecho tecnológico, IA, protección de datos) y profesor de IA para empresas y profesionales.
+Formato: gira presencial por provincias. La edición se celebra en un hotel de tu provincia, de viernes a las 16 h a domingo a las 18 h (unas 20 horas), en grupo de máximo 25 personas. Precio: 350 € + IVA solo el curso, o 600 € + IVA con alojamiento de dos noches en el mismo hotel y comidas.

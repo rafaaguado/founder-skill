@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Me gusta que hable claro de lo que no se puede hacer y que sea entre semana y con grabación, pero con lo que facturo 290 € más IVA es casi lo que saco de un informe de baja, y no conozco de nada al ponente.",
+  "objection": "No sé si el protocolo de licitud va a ser algo que de verdad me salve un informe en sala o una sanción de la AEPD, o solo unos prompts que podría sacar yo mismo; y de 17 a 20 h muchas veces estoy de vigilancia y acabaría viéndolo todo grabado.",
+  "would_change_my_mind": "Una sesión gratuita o un extracto del protocolo de licitud para ver que es serio, o que bajara a unos 150 €.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yo la formación la hago con la asociación, en las jornadas y congresos, y allí ya salen temas de IA y RGPD sin pagar 290 € de mi bolsillo. Ir a Murcia ni me lo planteo, y el online me come el viernes por la tarde y el sábado entero, que muchas veces son los días en que hago seguimientos de bajas.",
+  "objection": "No sé si 12 horas con un abogado me van a servir de verdad para mis informes de bajas para mutuas, o si es teoría general de IA que luego no aplico. Y 290 € más IVA es dinero para una agencia pequeña como la mía.",
+  "would_change_my_mind": "Que lo organizara u homologara mi asociación, con precio de asociado, o que hubiera un módulo concreto de bajas laborales e informes para mutuas y aseguradoras.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 300
+}

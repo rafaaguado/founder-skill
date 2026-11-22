@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Con lo que gano, 290 € más IVA de mi bolsillo es mucho dinero, y para gastarlo en alguien a quien no conozco de nada no me basta con que el anuncio lo pinte bien. Ya me apaño con ChatGPT gratis y, aunque no me fío de lo que saca, no tengo claro que esto me arregle eso.",
+  "objection": "No sé quién es este Rafa Aguado: no le he visto en el Colegio, ni dando charlas, ni en ningún sitio. Cualquiera se pone hoy a vender cursos de IA, y no quiero pagar 12 horas para que me cuenten lo que ya encuentro gratis en YouTube.",
+  "would_change_my_mind": "Que lo recomendara o lo organizara el Colegio de Abogados de Murcia o de Cartagena, o un compañero de confianza que lo haya hecho, y mejor si es más barato o lo cubre la formación colegial.",
+  "price_too_cheap": 30,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Vivo y trabajo en Barcelona: ir a Murcia un viernes por la tarde y todo el sábado son 450 € más tren, hotel y una tarde libre que tendría que pedir. Con mi sueldo, y sin que la agencia me lo pague, no me compensa.",
+  "objection": "Lo de la licitud me interesa de verdad, pero lo da un abogado. Sabrá qué tumba un informe en juicio, pero no cómo se investiga en la calle, y no sé si el protocolo sirve para mi trabajo o solo queda bonito en el papel.",
+  "would_change_my_mind": "Que la agencia lo pague como formación, o una edición en Barcelona u online con el mismo protocolo de licitud y los casos reales, y si además la da junto a un detective en activo, mejor.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

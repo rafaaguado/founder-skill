@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Las fuentes abiertas y las herramientas ya las domino, y lo que de verdad me da de comer son las bajas para mutuas, que se resuelven con seguimiento y vídeo, no con prompts. Murcia ni me lo planteo, y 290 € más un fin de semana entero delante de la pantalla para que me cuenten cosas que en buena parte ya sé no me salen a cuenta.",
+  "objection": "Que el curso esté pensado para quien empieza con OSINT y que el profesor sea abogado y no investigador de campo. Me temo que la mitad de las 12 horas sea teoría que ya tengo y que no aprenda nada que no saque yo solo trasteando.",
+  "would_change_my_mind": "Ver el temario detallado con casos de bajas laborales y aseguradoras, y que me demuestren que el protocolo de licitud y el modelo de informe con IA aguantan una ratificación. Online, solo con la grabación y por unos 150 €, me lo pensaría.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

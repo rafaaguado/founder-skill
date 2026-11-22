@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya he hecho dos o tres cursos de IA y este temario me suena a lo mismo que ya vi: prompts, revisar contratos, cuidado con el RGPD. Y a Rafa Aguado no lo conozco ni le he visto hablar en ningún sitio, así que no voy a dar un fin de semana entero a ciegas.",
+  "objection": "No sé quién es el ponente ni qué nivel tiene de verdad. Temo pagar 450 € y un sábado completo para que me expliquen otra vez qué es un prompt, cuando yo busco algo avanzado y aplicado a mis asuntos.",
+  "would_change_my_mind": "Ver antes un programa detallado con el nivel marcado como avanzado (flujos completos sobre casos reales, automatización, integración con las herramientas del despacho) y una muestra del ponente, un vídeo o una charla suya; y si además el despacho me lo bonifica por FUNDAE, iría al aula.",
+  "price_too_cheap": 80,
+  "price_cheap": 200,
+  "price_expensive": 400,
+  "price_too_expensive": 600
+}

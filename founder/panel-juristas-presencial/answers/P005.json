@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a Rafa Aguado y ningún compañero me lo ha recomendado; 450 € más IVA y perder un viernes por la tarde y un sábado entero en Murcia no lo pago por un anuncio que me encuentro.",
+  "objection": "Que sea otro curso de prompts genérico y que lo del secreto profesional y el RGPD se quede en cuatro avisos de manual, sin un protocolo que de verdad me cubra si algo sale mal. Y además presencial, cuando yo ya lo hago casi todo por videollamada.",
+  "would_change_my_mind": "Que un compañero de confianza que lo haya hecho me diga que le sirvió de verdad, sobre todo en la parte de secreto profesional y RGPD; y si hubiera opción online, más aún.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

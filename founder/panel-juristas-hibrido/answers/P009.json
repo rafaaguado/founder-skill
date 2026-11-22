@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No me fío de meter la IA en mis escritos después de leer lo de las sentencias inventadas, y 290 € más IVA de mi bolsillo por algo que en buena parte puedo ver gratis en YouTube no me compensa. Murcia me queda lejísimos, así que solo me valdría online, y un fin de semana entero delante de la pantalla tampoco me apetece.",
+  "objection": "Que me enseñen a usar herramientas que se inventan jurisprudencia y acabe haciendo el ridículo ante un juez; no veo qué me da este curso que no saque de tutoriales gratuitos.",
+  "would_change_my_mind": "Ver una muestra gratuita o una clase de prueba donde se enseñe en concreto el método para verificar cada cita y no colar sentencias falsas, y opiniones de abogados que no conozca de nada que lo hayan hecho.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

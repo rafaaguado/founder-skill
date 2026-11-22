@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Me quita un fin de semana entero, de viernes a domingo, y los fines de semana son de mis hijos; no los cambio por un curso. Además, el colegio ya me ofrece formación en IA más barata o gratis y entre semana.",
+  "objection": "Veinte horas en un hotel en pleno fin de semana es justo lo que no puedo dar. Y por 350 € no tengo claro que me vayan a contar mucho más que el curso del colegio.",
+  "would_change_my_mind": "Un formato en diferido o en tardes entre semana, en línea, con la biblioteca de prompts y el protocolo para el despacho incluidos.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

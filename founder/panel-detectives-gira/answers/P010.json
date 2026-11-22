@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo mío es la calle: seguimientos, vigilancias, fotos y el informe de siempre. Gastarme 350 € más IVA y un fin de semana entero, que es cuando a veces tengo servicios, en aprender IA que casi no voy a usar no me sale a cuenta con lo que gano.",
+  "objection": "Lo da un abogado. Un abogado no sabe cómo se investiga en la calle, y me temo que me venga a contar lo que no puedo hacer más que a enseñarme algo que me sirva el lunes.",
+  "would_change_my_mind": "Que algún compañero detective de campo que yo conozca lo haya hecho y me diga que le ha ahorrado horas de verdad en los informes, y que costara bastante menos o fuera en una sola jornada.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}

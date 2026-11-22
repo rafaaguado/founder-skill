@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco de nada a Rafa Aguado y no encuentro que tenga presencia pública, así que no voy a soltar 350 € más IVA y regalar un fin de semana entero, con viaje a Murcia, a alguien que no sé si sabe más que yo trasteando con ChatGPT. Con lo que gano, eso es mucho dinero para una apuesta a ciegas.",
+  "objection": "Que sea un desconocido vendiendo humo de IA, y encima de viernes tarde a domingo: me como el fin de semana, la gasolina y el despacho cerrado el viernes por la tarde. No sé si saldría sabiendo hacer algo que no pueda aprender gratis.",
+  "would_change_my_mind": "Que me lo recomendara un compañero de confianza que haya ido, o poder ver antes una sesión gratuita corta y online del ponente para comprobar que sabe de lo que habla.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}

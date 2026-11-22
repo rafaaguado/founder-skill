@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Ivy",
+  "age": 48,
+  "segment": "Socio/a de despacho pequeño (2-10 personas)",
+  "income": 45000,
+  "behaviour": "Compra por referencia",
+  "behaviour_how": "Solo paga cursos de ponentes que conoce o que le recomienda un compañero.",
+  "objection": "Esto lo puedo aprender gratis en YouTube",
+  "habit": "ejerces en una capital del norte de España, lejos de Murcia"
+ },
+ {
+  "id": "P002",
+  "name": "Yara",
+  "age": 44,
+  "segment": "Socio/a de despacho pequeño (2-10 personas)",
+  "income": 50000,
+  "behaviour": "Fin de semana sagrado",
+  "behaviour_how": "Tiene hijos o mucha carga; protege los sábados y prefiere formarse entre semana o en diferido.",
+  "objection": "El colegio de abogados ya ofrece cursos de IA más baratos o gratis",
+  "habit": "ejerces en Madrid y solo viajas por juicios"
+ },
+ {
+  "id": "P003",
+  "name": "Aria",
+  "age": 49,
+  "segment": "Personal no abogado de despacho o graduado social",
+  "income": 29000,
+  "behaviour": "Fiel al colegio",
+  "behaviour_how": "Su formación la hace casi siempre en el colegio de abogados, gratis o a precio de colegiado.",
+  "objection": "No conozco a este ponente y no tiene presencia pública",
+  "habit": "ejerces en Valencia"
+ },
+ {
+  "id": "P004",
+  "name": "Dev",
+  "age": 58,
+  "segment": "Abogado/a asociado o asalariado en despacho mediano (el despacho puede pagar o bonificar por FUNDAE)",
+  "income": 45000,
+  "behaviour": "Pionero tecnológico",
+  "behaviour_how": "Ya ha hecho dos o tres cursos de IA y busca algo más avanzado y aplicado.",
+  "objection": "No conozco a este ponente y no tiene presencia pública",
+  "habit": "tienes el despacho en Murcia capital, a 10 minutos de cualquier aula"
+ },
+ {
+  "id": "P005",
+  "name": "Luis",
+  "age": 44,
+  "segment": "Abogado/a individual en ejercicio, paga de su bolsillo",
+  "income": 43000,
+  "behaviour": "Compra por referencia",
+  "behaviour_how": "Solo paga cursos de ponentes que conoce o que le recomienda un compañero.",
+  "objection": "Me preocupa vulnerar el secreto profesional o el RGPD al usar IA",
+  "habit": "haces casi todas tus reuniones por videollamada desde la pandemia"
+ },
+ {
+  "id": "P006",
+  "name": "Alma",
+  "age": 40,
+  "segment": "Abogado/a asociado o asalariado en despacho mediano (el despacho puede pagar o bonificar por FUNDAE)",
+  "income": 35000,
+  "behaviour": "Escéptico",
+  "behaviour_how": "Ha leído que la IA se inventa sentencias y teme hacer el ridículo ante un juez.",
+  "objection": "El colegio de abogados ya ofrece cursos de IA más baratos o gratis",
+  "habit": "tu despacho está en Alicante o Elche, a algo más de una hora de Murcia"
+ },
+ {
+  "id": "P007",
+  "name": "Clara",
+  "age": 29,
+  "segment": "Socio/a de despacho pequeño (2-10 personas)",
+  "income": 53000,
+  "behaviour": "Usuario sin método",
+  "behaviour_how": "Usa ChatGPT gratis a diario para borradores, pero no se fía del resultado y no tiene un sistema.",
+  "objection": "Tendría que desplazarme a Murcia",
+  "habit": "tienes el despacho en Murcia capital, a 10 minutos de cualquier aula"
+ },
+ {
+  "id": "P008",
+  "name": "Luca",
+  "age": 40,
+  "segment": "Abogado/a individual en ejercicio, paga de su bolsillo",
+  "income": 28000,
+  "behaviour": "Fiel al colegio",
+  "behaviour_how": "Su formación la hace casi siempre en el colegio de abogados, gratis o a precio de colegiado.",
+  "objection": "Las herramientas cambian cada mes y el curso se quedará viejo",
+  "habit": "ejerces en una capital del norte de España, lejos de Murcia"
+ },
+ {
+  "id": "P009",
+  "name": "Oscar",
+  "age": 30,
+  "segment": "Abogado/a individual en ejercicio, paga de su bolsillo",
+  "income": 43000,
+  "behaviour": "Escéptico",
+  "behaviour_how": "Ha leído que la IA se inventa sentencias y teme hacer el ridículo ante un juez.",
+  "objection": "Esto lo puedo aprender gratis en YouTube",
+  "habit": "ejerces en una capital del norte de España, lejos de Murcia"
+ },
+ {
+  "id": "P010",
+  "name": "Ben",
+  "age": 56,
+  "segment": "Abogado/a individual en ejercicio, paga de su bolsillo",
+  "income": 29000,
+  "behaviour": "Usuario sin método",
+  "behaviour_how": "Usa ChatGPT gratis a diario para borradores, pero no se fía del resultado y no tiene un sistema.",
+  "objection": "No conozco a este ponente y no tiene presencia pública",
+  "habit": "trabajas en Cartagena o Lorca, a unos 45-60 minutos de Murcia en coche"
+ }
+]

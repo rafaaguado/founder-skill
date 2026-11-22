@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo mío es la calle, seguimientos y vigilancias; el ordenador lo justo para el informe. Gastarme 350 € más IVA y perder un fin de semana entero, que muchas veces es cuando más curro hay, para aprender algo que ni sé si voy a usar, no me sale.",
+  "objection": "No quiero meter datos de mis casos en ninguna IA, y si el curso es para enseñarme a subir documentos y audios a esas herramientas, me genera más problema que solución. Además con lo que gano, 350 € es casi un mes de gasolina.",
+  "would_change_my_mind": "Que me demuestren que se puede trabajar con IA en local, sin que los datos salgan de mi ordenador, y que lo hagan en formato más corto (un sábado) y más barato, o que me lo pague o subvencione algún organismo de formación.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 200,
+  "price_too_expensive": 300
+}

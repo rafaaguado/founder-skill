@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Me ocupa el sábado entero, de 9 a 18:30, y los sábados son para mis hijos; Murcia ni me lo planteo desde Madrid. Pagar 290 € para acabar viéndolo en grabación, deprisa y en 60 días, no me compensa cuando el Colegio ya tiene cursos de IA más baratos o gratis.",
+  "objection": "Que no veo qué me da que no me dé el Colegio por mucho menos, y que el horario choca de lleno con mi fin de semana. Si lo compro para verlo en diferido, pierdo justo lo que se supone que lo hace mejor: preguntar en directo.",
+  "would_change_my_mind": "Una edición online entre semana, por ejemplo en tardes de dos o tres horas, o un precio claramente pensado para la grabación con acceso más largo, y algo concreto que lo distinga del curso del Colegio, como el protocolo de despacho listo para usar en el mío.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 380
+}

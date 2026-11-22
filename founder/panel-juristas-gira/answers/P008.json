@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Mi formación la hago en el colegio, gratis o casi, y 350 € más un fin de semana entero sin ver a los míos es mucho para lo que gano. Si el colegio saca algo de IA, que lo sacará, voy a eso.",
+  "objection": "Las herramientas cambian cada mes; lo que aprenda en noviembre con ChatGPT o Copilot estará viejo en primavera, y la biblioteca de prompts también.",
+  "would_change_my_mind": "Que lo homologue mi colegio o que incluya actualizaciones durante un año (prompts y protocolo revisados), a un precio de colegiado por debajo de 200 € y sin quemar el fin de semana completo.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

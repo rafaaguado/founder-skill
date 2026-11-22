@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a Rafa Aguado y nadie de mi entorno me lo ha recomendado; yo solo pago cursos de ponentes de confianza. Además, buena parte de esto creo que lo puedo sacar gratis en YouTube o probando yo misma.",
+  "objection": "Pagar 290 € y doce horas de tardes de despacho a alguien que no me ha recomendado ningún compañero, por algo que no sé si va más allá de lo que ya circula gratis.",
+  "would_change_my_mind": "Que un compañero de confianza o mi colegio de abogados me lo recomiende diciendo que le ha servido de verdad en su despacho.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

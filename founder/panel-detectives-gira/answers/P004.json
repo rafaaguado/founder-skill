@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Lo imparte un abogado, y un abogado no sabe cómo se investiga en la calle; me va a contar lo que no puedo hacer, que ya me lo dicen todos los días, y además me quita un fin de semana entero.",
+  "objection": "Que sea un curso de un abogado que no ha hecho un seguimiento en su vida, con mucha teoría de RGPD y prohibiciones y poco de cómo me ahorra horas en un caso real de bajas o de competencia desleal.",
+  "would_change_my_mind": "Que lo dé a medias con un detective con TIP en activo y años de calle, y que me enseñen el programa con ejemplos concretos de informes que se hayan ratificado en juicio.",
+  "price_too_cheap": 90,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Si el colegio me da cursos de IA baratos o gratis, no voy a pagar 350 € de mi bolsillo y perder un fin de semana entero, de viernes a domingo, en un hotel. Solo iría si el despacho lo paga por FUNDAE, y aun así me costaría regalar el fin de semana.",
+  "objection": "He leído que la IA se inventa sentencias y no me fío. No sé si en un fin de semana me van a enseñar a comprobar lo que me da o si voy a salir con una lista de prompts y la misma inseguridad de hacer el ridículo ante un juez.",
+  "would_change_my_mind": "Que el despacho lo pague entero vía FUNDAE y que el programa enseñe en concreto cómo verificar cada cita y cada sentencia que saca la IA, con ejemplos de errores reales.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

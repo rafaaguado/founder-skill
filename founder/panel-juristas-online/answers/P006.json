@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No me fío de meter la IA en mis escritos: he leído casos de sentencias inventadas y no quiero ser yo quien haga el ridículo ante un juez. Y para trastear, el colegio ya ofrece formación de IA más barata o gratis.",
+  "objection": "No veo qué me da este curso que no me dé el del colegio, y a 290 € de mi bolsillo no me la juego; además, de martes y jueves de 17 a 20 h todavía estoy en el despacho.",
+  "would_change_my_mind": "Que el despacho lo pague o lo bonifique por FUNDAE y que se vea en el temario un método concreto para comprobar cada cita y cada sentencia antes de presentar nada.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

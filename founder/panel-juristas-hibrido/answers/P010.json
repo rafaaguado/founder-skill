@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "A este señor no lo conozco de nada y no le encuentro ninguna presencia pública, así que no voy a soltar 290 € más IVA, ni mucho menos 450 € más el viaje a Murcia, por un curso de alguien que no sé si sabe más que yo con el ChatGPT gratis. Con lo que gano, un fin de semana entero y ese dinero tienen que ir a algo que me dé confianza.",
+  "objection": "No sé quién es Rafa Aguado ni qué ha hecho; puede ser otro más que se ha subido al carro de la IA vendiendo listas de prompts que encuentro gratis en internet.",
+  "would_change_my_mind": "Que me lo recomendara un compañero del Colegio de Abogados que lo haya hecho, o que el propio Colegio lo organizara u homologara, y poder ver antes una sesión o un vídeo gratis para comprobar que sabe de lo que habla.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}

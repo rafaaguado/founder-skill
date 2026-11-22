@@ -1,0 +1,61 @@
+# Buyer panel: Academia Orbius de IA para detectives privados (curso intensivo de IA aplicada a la investigación privada)
+
+**0 buy · 10 pass** (0% buy) out of 10 simulated buyers. Seed 22, so the same cards can be dealt again.
+
+These are simulated buyers, not customers. Use this to find objections and weak spots, then confirm the big ones with real people before you spend.
+
+## By segment
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Titular de agencia pequeña (2-5 detectives) | 3 | 0%  (thin) |
+| Detective en plantilla de agencia, aseguradora o empresa | 2 | 0%  (thin) |
+| Detective autónomo/a que trabaja solo | 5 | 0%  (thin) |
+
+## By buying behaviour
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| Compra en la asociación | 1 | 0%  (thin) |
+| Cuenta horas | 2 | 0%  (thin) |
+| Obsesionado con la licitud | 2 | 0%  (thin) |
+| Desconfía de los abogados | 1 | 0%  (thin) |
+| De campo | 3 | 0%  (thin) |
+| OSINT avanzado | 1 | 0%  (thin) |
+
+## By income
+
+| group | buyers | buy rate |
+| --- | ---: | ---: |
+| $33,000 and up | 4 | 0%  (thin) |
+| $28,000 to $33,000 | 3 | 0%  (thin) |
+| under $28,000 | 3 | 0%  (thin) |
+
+## Why they pass
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+| need | 6 | "Con los casos que entran en mi agencia no veo claro que 290 € más IVA y un fin de semana entero me los devuelva en horas de informe ahorradas. Murcia me pilla lejos desde Andalucía, así que solo me plantearía el online, y aun así lo dejo pasar por ahora." (P002) · "Yo hago sobre todo custodias y familia: seguimientos y fotos, y el informe ya lo tengo hecho a mi manera. No veo claro que 12 horas y un fin de semana entero, que a veces es cuando más trabajo, me devuelvan horas de informe o me traigan un solo caso más." (P005) |
+| trust | 2 | "La parte de licitud, RGPD y Reglamento de IA me interesa de verdad, porque es lo que me quita el sueño con los informes. Pero 290 € de mi bolsillo y un fin de semana entero para que un abogado me cuente cómo investigar no me cuadra; Murcia desde Barcelona ni me lo planteo." (P003) · "Me pilla al lado de casa, pero un abogado enseñándome a investigar no me convence: llevo años en la calle y lo de la IA ya lo voy probando por mi cuenta. Para que me digan lo que no puedo hacer ya tengo a los abogados de mis clientes." (P004) |
+| habit | 1 | "Yo la formación la hago con la asociación, en las jornadas y congresos, y allí ya salen temas de IA y RGPD sin pagar 290 € de mi bolsillo. Ir a Murcia ni me lo planteo, y el online me come el viernes por la tarde y el sábado entero, que muchas veces son los días en que hago seguimientos de bajas." (P001) |
+| timing | 1 | "El tema de la licitud me interesa de verdad, porque lo que me quita el sueño es que me tumben un informe de una baja o me caiga algo de la AEPD. Pero el sábado lo tengo de seguimientos, y pagar 290 € más IVA ganando lo que gano para acabar viendo una grabación no me sale." (P008) |
+
+## Why they buy
+
+| reason | buyers | in their words |
+| --- | ---: | --- |
+
+## What would flip a no
+
+- Que lo organizara u homologara mi asociación, con precio de asociado, o que hubiera un módulo concreto de bajas laborales e informes para mutuas y aseguradoras.
+- Ver un ejemplo concreto, con un caso real, de cuánto se reduce el tiempo de redactar un informe con la biblioteca de prompts, o que algún colega de otra agencia pequeña me diga que le ha ahorrado horas.
+- Que lo pague la empresa como formación, o que en el curso participe un detective con TIP en activo que haya ratificado informes hechos con estas herramientas, y ver antes un temario detallado o una muestra de los casos reales.
+- Que lo impartiera junto a un detective con años de calle y que pudiera ver antes un caso real resuelto paso a paso con esas herramientas, con un informe que haya aguantado una ratificación.
+- Ver un caso concreto de custodia donde, con esos prompts, alguien haya sacado el informe y la cronología en la mitad de tiempo y que haya aguantado la ratificación; y que el online estuviera por debajo de 200 €.
+- Que la agencia me lo pagara y me lo contara como horas de trabajo, o que me dijeran claramente que van a pasarme a mí la parte de fuentes abiertas e informes.
+- Que me enseñaran a usarlo sin subir datos de mis casos a ningún servidor, en local o con información pública, y que me lo pidieran los clientes o los juzgados de verdad.
+- Una opción solo grabada, más barata (unos 150 €) y sin caducidad a los 60 días, o una edición entre semana; y ver antes un trozo del protocolo de licitud aplicado a un seguimiento de baja laboral.
+- Ver el temario detallado con casos de bajas laborales y aseguradoras, y que me demuestren que el protocolo de licitud y el modelo de informe con IA aguantan una ratificación. Online, solo con la grabación y por unos 150 €, me lo pensaría.
+- Que un compañero detective de campo que conozca me diga que lo hizo y que le sirvió para hacer los informes en la mitad de tiempo, y a un precio más cerca de 150 €.
+
+10 buyers gave all four price answers. Run founder-pricing's van_westendorp.py on the answers folder.

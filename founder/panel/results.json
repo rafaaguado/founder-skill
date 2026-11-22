@@ -1,0 +1,49 @@
+{
+ "business": "Academia Orbius de IA (suma de 8 paneles de 10: 2 audiencias x 4 formatos, mismas 10 personas por audiencia)",
+ "answered": 80,
+ "buys": 1,
+ "passes": 79,
+ "buy_rate": 0.0125,
+ "panels": [
+  [
+   "detectives-gira",
+   0,
+   10
+  ],
+  [
+   "detectives-hibrido",
+   0,
+   10
+  ],
+  [
+   "detectives-online",
+   0,
+   10
+  ],
+  [
+   "detectives-presencial",
+   0,
+   10
+  ],
+  [
+   "juristas-gira",
+   0,
+   10
+  ],
+  [
+   "juristas-hibrido",
+   1,
+   10
+  ],
+  [
+   "juristas-online",
+   0,
+   10
+  ],
+  [
+   "juristas-presencial",
+   0,
+   10
+  ]
+ ]
+}

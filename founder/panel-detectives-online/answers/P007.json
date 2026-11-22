@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo mío es calle, seguimiento y vigilancia; la IA y el OSINT apenas los toco y no quiero meter datos de mis casos en herramientas que no controlo. Con 22.000 € al año, 290 € más IVA por algo complementario que no me da más trabajo no me compensa.",
+  "objection": "No me fío de subir datos de clientes o investigados a una IA, y encima a las cinco de la tarde un martes o un jueves suelo estar en un seguimiento, no delante de Zoom.",
+  "would_change_my_mind": "Que me demostraran que se puede usar sin que los datos de mis casos salgan de mi ordenador y que con eso redacto los informes en la mitad de tiempo, a un precio de unos 120-150 €.",
+  "price_too_cheap": 30,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 250
+}

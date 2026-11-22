@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Uso ChatGPT todos los días para borradores y no me fío de lo que saca, y lo del secreto profesional y el RGPD me tiene intranquila. Tengo el aula a diez minutos del despacho, así que me cojo la plaza presencial y la paso como gasto del despacho.",
+  "objection": "Me quita un viernes por la tarde y el sábado entero, y temo que sea un curso genérico de prompts que se me olvide en dos semanas, sin nada que pueda aplicar el lunes en mis asuntos.",
+  "would_change_my_mind": "Si el temario resulta ser una demo de herramientas sin casos de despacho ni protocolo concreto, o si me cae un señalamiento o un plazo ese fin de semana, no me apunto.",
+  "price_too_cheap": 90,
+  "price_cheap": 250,
+  "price_expensive": 500,
+  "price_too_expensive": 750
+}

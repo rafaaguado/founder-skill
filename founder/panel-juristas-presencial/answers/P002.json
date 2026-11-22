@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Trabajo en Madrid y los sábados son para mis hijos; irme a Murcia un viernes por la tarde y pasar allí el sábado entero, con tren y hotel aparte, no lo hago por un curso. Si lo necesito, busco algo en diferido o entre semana, y el Colegio ya tiene cursos de IA más baratos.",
+  "objection": "El formato: presencial en Murcia y con el sábado completo. A eso súmale desplazamiento y alojamiento, y los 450 € se convierten en bastante más, cuando el Colegio me ofrece algo parecido casi gratis.",
+  "would_change_my_mind": "Una versión online en diferido o en tardes entre semana, con la biblioteca de prompts y el protocolo para el despacho incluidos.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

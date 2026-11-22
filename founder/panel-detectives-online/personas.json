@@ -1,0 +1,112 @@
+[
+ {
+  "id": "P001",
+  "name": "Ivy",
+  "age": 49,
+  "segment": "Titular de agencia pequeña (2-5 detectives)",
+  "income": 34000,
+  "behaviour": "Compra en la asociación",
+  "behaviour_how": "Hace la formación que organiza su colegio o asociación profesional, en jornadas y congresos.",
+  "objection": "Tendría que desplazarme a Murcia y perder un día de trabajo",
+  "habit": "haces muchas bajas laborales para mutuas y aseguradoras"
+ },
+ {
+  "id": "P002",
+  "name": "Yara",
+  "age": 45,
+  "segment": "Titular de agencia pequeña (2-5 detectives)",
+  "income": 37000,
+  "behaviour": "Cuenta horas",
+  "behaviour_how": "Solo paga formación si ve claro que le ahorra horas de informe o le trae casos.",
+  "objection": "Con mi volumen de casos no sé si lo amortizo",
+  "habit": "trabajas en Andalucía (Sevilla, Málaga o Granada)"
+ },
+ {
+  "id": "P003",
+  "name": "Aria",
+  "age": 50,
+  "segment": "Detective en plantilla de agencia, aseguradora o empresa",
+  "income": 33000,
+  "behaviour": "Obsesionado con la licitud",
+  "behaviour_how": "Le preocupa que un informe se le caiga en juicio o una sanción de la AEPD.",
+  "objection": "Un abogado no sabe cómo se investiga en la calle",
+  "habit": "trabajas en Barcelona"
+ },
+ {
+  "id": "P004",
+  "name": "Dev",
+  "age": 59,
+  "segment": "Titular de agencia pequeña (2-5 detectives)",
+  "income": 65000,
+  "behaviour": "Desconfía de los abogados",
+  "behaviour_how": "Cree que los abogados no entienden la investigación de campo y piden imposibles.",
+  "objection": "Un abogado no sabe cómo se investiga en la calle",
+  "habit": "tu despacho está en Murcia o Cartagena"
+ },
+ {
+  "id": "P005",
+  "name": "Luis",
+  "age": 45,
+  "segment": "Detective autónomo/a que trabaja solo",
+  "income": 31000,
+  "behaviour": "Cuenta horas",
+  "behaviour_how": "Solo paga formación si ve claro que le ahorra horas de informe o le trae casos.",
+  "objection": "No da ninguna acreditación oficial ni puntos",
+  "habit": "llevas sobre todo casos de familia y custodias"
+ },
+ {
+  "id": "P006",
+  "name": "Alma",
+  "age": 41,
+  "segment": "Detective en plantilla de agencia, aseguradora o empresa",
+  "income": 28000,
+  "behaviour": "De campo",
+  "behaviour_how": "Su trabajo es seguimiento y vigilancia en la calle; lo digital lo usa poco.",
+  "objection": "Con mi volumen de casos no sé si lo amortizo",
+  "habit": "trabajas en Madrid, donde está buena parte del sector"
+ },
+ {
+  "id": "P007",
+  "name": "Clara",
+  "age": 30,
+  "segment": "Detective autónomo/a que trabaja solo",
+  "income": 22000,
+  "behaviour": "De campo",
+  "behaviour_how": "Su trabajo es seguimiento y vigilancia en la calle; lo digital lo usa poco.",
+  "objection": "No quiero dejar rastro de datos de mis casos en herramientas de IA",
+  "habit": "tu despacho está en Murcia o Cartagena"
+ },
+ {
+  "id": "P008",
+  "name": "Luca",
+  "age": 41,
+  "segment": "Detective autónomo/a que trabaja solo",
+  "income": 21000,
+  "behaviour": "Obsesionado con la licitud",
+  "behaviour_how": "Le preocupa que un informe se le caiga en juicio o una sanción de la AEPD.",
+  "objection": "Los fines de semana trabajo: muchos seguimientos son en sábado",
+  "habit": "haces muchas bajas laborales para mutuas y aseguradoras"
+ },
+ {
+  "id": "P009",
+  "name": "Oscar",
+  "age": 31,
+  "segment": "Detective autónomo/a que trabaja solo",
+  "income": 31000,
+  "behaviour": "OSINT avanzado",
+  "behaviour_how": "Ya domina búsquedas en fuentes abiertas y herramientas; sabe más que muchos formadores.",
+  "objection": "Tendría que desplazarme a Murcia y perder un día de trabajo",
+  "habit": "haces muchas bajas laborales para mutuas y aseguradoras"
+ },
+ {
+  "id": "P010",
+  "name": "Ben",
+  "age": 57,
+  "segment": "Detective autónomo/a que trabaja solo",
+  "income": 22000,
+  "behaviour": "De campo",
+  "behaviour_how": "Su trabajo es seguimiento y vigilancia en la calle; lo digital lo usa poco.",
+  "objection": "Un abogado no sabe cómo se investiga en la calle",
+  "habit": "trabajas desde Alicante o Valencia"
+ }
+]

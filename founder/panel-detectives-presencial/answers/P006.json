@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Yo me paso el día en la calle haciendo seguimientos; las fuentes abiertas y los informes los toca más la oficina. Pagar 450 € de mi bolsillo, más tren y hotel a Murcia y perder un viernes por la tarde, con lo que gano, no me sale.",
+  "objection": "Con mi volumen de casos y lo poco que uso lo digital no lo amortizo, y siendo asalariada no sé si la agencia me lo pagaría; desde Madrid es un viaje entero para 12 horas.",
+  "would_change_my_mind": "Que lo pagara la empresa y me dieran el viernes libre, o que hubiera una edición en Madrid.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 400
+}

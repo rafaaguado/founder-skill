@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Con los casos que entran en mi agencia no veo claro que 350 € más un fin de semana entero sin seguimientos me lo devuelva en horas de informe. Los fines de semana es cuando más vigilancias tengo, y perder uno me cuesta dinero aparte del curso.",
+  "objection": "No sé cuántas horas me va a ahorrar de verdad en mis informes. Lo de la IA suena bien, pero si al final sigo redactando igual y encima tengo que revisar todo lo que saca la máquina para que aguante en sala, no me sale a cuenta.",
+  "would_change_my_mind": "Ver con un caso como los míos, antes de pagar, cuánto tiempo se ahorra en montar la cronología y el informe, o que un compañero de una agencia pequeña me diga que lo ha amortizado en uno o dos meses. Si además fuera en Sevilla sin tener que dormir fuera, me lo pensaría.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 420
+}

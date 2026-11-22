@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Me interesa porque uso ChatGPT a diario sin fiarme ni tener método, pero de 17 a 20 h es cuando recibo clientes y pasar doce horas delante del Zoom no me motiva; si lo tengo en Murcia a diez minutos, prefiero algo presencial donde de verdad atienda.",
+  "reason_code": "convenience",
+  "objection": "Que un curso online por Zoom lo acabe viendo a medias, con el móvil sonando y el despacho abierto, y termine tirando de grabaciones que nunca veo, así que pagaría 290 € por algo que no aprovecho.",
+  "would_change_my_mind": "Una edición presencial en Murcia, o una primera sesión gratuita en la que vea que la biblioteca de prompts y el protocolo me sirven de verdad en mi despacho desde el primer día.",
+  "price_too_cheap": 50,
+  "price_cheap": 150,
+  "price_expensive": 280,
+  "price_too_expensive": 400
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Me pilla al lado de casa, pero 450 euros y un fin de semana entero para que un abogado me cuente cómo investigar no me lo trago. Llevo años en la calle y los abogados lo que hacen es pedirnos imposibles; lo de la IA no me lo tiene que enseñar alguien que nunca ha hecho un seguimiento.",
+  "objection": "Que lo da un abogado y no un detective. Me temo que sea mucha teoría de RGPD y de lo que no se puede hacer, y poco de cómo se trabaja de verdad un caso con el cliente encima y el informe para el juzgado.",
+  "would_change_my_mind": "Que lo impartiera junto a un detective con TIP en activo que haya ratificado informes en juicio, y ver antes un ejemplo de los casos reales y de la biblioteca de prompts.",
+  "price_too_cheap": 60,
+  "price_cheap": 150,
+  "price_expensive": 300,
+  "price_too_expensive": 450
+}

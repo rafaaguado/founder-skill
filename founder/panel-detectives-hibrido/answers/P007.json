@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo mío es la calle, seguimientos y vigilancias, y lo digital lo toco lo justo; no quiero meter datos de mis casos en ninguna IA. Gastarme 290 o 450 € y un fin de semana entero en algo que no voy a usar, ganando lo que gano, no me cuadra.",
+  "objection": "No quiero dejar rastro de datos de mis casos en herramientas de IA; aunque me cuenten lo que no se puede hacer, sigo sin fiarme de subir nada de un cliente a esos programas.",
+  "would_change_my_mind": "Que me enseñaran a usarlo sin subir datos de mis casos a ningún servidor, en local o con información pública, y que me lo pidieran los clientes o los juzgados de verdad.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 260
+}

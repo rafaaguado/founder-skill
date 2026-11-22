@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "quality",
+  "reason": "Lo de fuentes abiertas ya lo domino, y un fin de semana entero más la tarde del viernes sin hacer seguimientos de bajas me cuesta dinero. No veo que me vayan a enseñar algo que no saque yo probando herramientas por mi cuenta.",
+  "objection": "Lo imparte un abogado, no un detective que haga calle. Me temo que el nivel de OSINT sea básico para mí y que me pase veinte horas oyendo lo que no puedo hacer, que eso ya me lo sé.",
+  "would_change_my_mind": "Ver el temario detallado con casos prácticos de bajas laborales para mutuas y aseguradoras, y que la parte de IA sea avanzada de verdad (automatizar cronologías e informes que aguanten la ratificación), en formato de un solo día o en sábado sin perder el viernes.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

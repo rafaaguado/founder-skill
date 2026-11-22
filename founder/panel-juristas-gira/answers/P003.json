@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No conozco a Rafa Aguado ni le he visto en ningún sitio, y yo la formación la hago en el ICAV a precio de colegiado. Pagar 350 € más IVA de mi bolsillo, con lo que gano, y perder un fin de semana entero por alguien de quien no tengo referencias no me cuadra.",
+  "objection": "Que no tiene presencia pública ni el respaldo del colegio: no sé si sabe enseñar ni si lo que cuenta vale lo que cuesta. Además, sacrificar viernes tarde, sábado y domingo me pesa casi tanto como el precio.",
+  "would_change_my_mind": "Que lo organizara o lo homologara el Colegio de Abogados de Valencia con precio de colegiado y que el despacho me lo pagara, o que compañeros de confianza que ya lo hayan hecho me lo recomendaran.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}

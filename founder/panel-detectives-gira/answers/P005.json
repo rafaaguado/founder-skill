@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "350 € más un fin de semana entero sin trabajar, y en custodias el fin de semana es justo cuando hago los seguimientos de entregas y visitas. Para un autónomo que va justo, eso es mucho dinero y muchas horas para algo que no me da acreditación ni puntos.",
+  "objection": "No veo claro cuántas horas de informe me va a ahorrar de verdad en casos de familia, y encima no da ninguna acreditación oficial. No me voy a gastar eso para salir con una carpeta de prompts que igual encuentro gratis.",
+  "would_change_my_mind": "Que fuera en un solo día o en horario que no me coma el fin de semana, por debajo de 200 €, y que me enseñaran con un caso de custodia real cómo sacar el informe en la mitad de tiempo.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 320
+}

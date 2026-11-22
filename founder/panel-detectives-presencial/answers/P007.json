@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Lo mío es la calle: seguimientos, vigilancias y fotos. La IA casi no la uso y tampoco quiero meter datos de mis casos en esas herramientas, así que pagar 450 € más IVA, que para lo que yo facturo es mucho, por algo que no voy a usar no me compensa, por cerca que me pille Murcia.",
+  "objection": "No me fío de pasar información de mis clientes y de los investigados por herramientas de IA, y no veo que esto me ayude a sacar más encargos ni a hacer mejor un seguimiento. Además, un viernes por la tarde y un sábado entero son horas en las que a menudo estoy de vigilancia.",
+  "would_change_my_mind": "Que me enseñaran a trabajar con IA sin sacar los datos de mi ordenador, es decir, sin que salga nada de mis casos, y que el precio estuviera más cerca de los 150-200 €.",
+  "price_too_cheap": 40,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

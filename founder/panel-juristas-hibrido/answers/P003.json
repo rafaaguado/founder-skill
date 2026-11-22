@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Mi formación la hago en el colegio de Valencia, gratis o a precio de colegiado, y a este ponente no lo conozco de nada. Pagar 290 € más IVA de mi bolsillo por un curso de alguien sin presencia pública no lo veo, y menos aún ir a Murcia por 450 €.",
+  "objection": "No sé quién es Rafa Aguado ni tengo referencias suyas. Además no soy abogada, y no tengo claro que el curso esté pensado para el personal del despacho; si el colegio saca algo parecido de IA, me va a salir mucho más barato.",
+  "would_change_my_mind": "Que lo organizara o lo homologara el colegio de abogados de Valencia, con precio de colegiado, o que me lo pagara el despacho.",
+  "price_too_cheap": 20,
+  "price_cheap": 60,
+  "price_expensive": 150,
+  "price_too_expensive": 250
+}

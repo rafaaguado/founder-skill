@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ya he hecho dos o tres cursos de IA y el temario, redactar escritos, buscar jurisprudencia y hacer prompts, me suena a lo que ya he visto. No pienso darle un fin de semana entero de viernes a domingo a un ponente al que no conozco de nada y del que no encuentro nada público.",
+  "objection": "No sé quién es Rafa Aguado ni qué nivel tiene. No veo nada que me diga que esto es avanzado y no otra introducción a ChatGPT. Encima me quita el fin de semana, y a mi edad eso pesa más que los 350 euros.",
+  "would_change_my_mind": "Ver antes al ponente en una charla gratuita o un webinar corto donde enseñe algo que yo no sepa hacer ya, con un temario avanzado detallado, y que el despacho lo pueda bonificar por FUNDAE.",
+  "price_too_cheap": 90,
+  "price_cheap": 200,
+  "price_expensive": 400,
+  "price_too_expensive": 600
+}

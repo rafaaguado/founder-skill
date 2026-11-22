@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Vivo en el norte y meterme un fin de semana entero en Murcia, con viaje y hotel encima de 450 €, no me compensa cuando el colegio me ofrece formación de IA gratis o casi gratis aquí mismo.",
+  "objection": "Entre el desplazamiento, el alojamiento y perder viernes tarde y sábado, se me va a más de 700 € por un curso de herramientas que cambian cada mes y que dentro de medio año estará viejo.",
+  "would_change_my_mind": "Que se ofreciera online en directo o a través de mi colegio de abogados a precio de colegiado, con actualizaciones de la biblioteca de prompts incluidas durante un año.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 200,
+  "price_too_expensive": 300
+}

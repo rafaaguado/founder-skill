@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Yo hago sobre todo custodias y familia: seguimientos y fotos, y el informe ya lo tengo hecho a mi manera. No veo claro que 12 horas y un fin de semana entero, que a veces es cuando más trabajo, me devuelvan horas de informe o me traigan un solo caso más.",
+  "objection": "No da ninguna acreditación oficial ni puntos, y por 290 € más IVA más el finde perdido no sé si la IA me sirve para lo mío o es más para agencias que hacen OSINT y empresa.",
+  "would_change_my_mind": "Ver un caso concreto de custodia donde, con esos prompts, alguien haya sacado el informe y la cronología en la mitad de tiempo y que haya aguantado la ratificación; y que el online estuviera por debajo de 200 €.",
+  "price_too_cheap": 50,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 320
+}

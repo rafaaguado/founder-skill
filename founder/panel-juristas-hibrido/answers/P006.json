@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "No me fío de que la IA no me cuele una sentencia inventada, y para probar me apunto antes a lo que saque el colegio, que sale más barato o gratis. 290 € más IVA de mi bolsillo, con un sueldo de 35.000, no lo pago por curiosidad.",
+  "objection": "Que me enseñen a usar algo que puede inventarse jurisprudencia y acabe haciendo el ridículo delante de un juez; además el colegio ya da cursos de IA y no veo claro qué tiene este que no tengan aquellos.",
+  "would_change_my_mind": "Que el despacho lo pague o lo bonifique por FUNDAE, y que el temario dedique una parte clara a cómo verificar cada cita y cada sentencia antes de usarla.",
+  "price_too_cheap": 40,
+  "price_cheap": 100,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

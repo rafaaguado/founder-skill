@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yo la formación la hago con la asociación, en las jornadas y congresos, y a un curso de alguien de fuera no me apunto por un anuncio. Además 350 € y un fin de semana entero cerrando la agencia es mucho para lo que yo hago, que son bajas laborales para mutuas y aseguradoras.",
+  "objection": "No sé si lo que se aprende ahí me sirve para mis seguimientos de bajas o es más para abogados y para OSINT de empresa. Y perder de viernes a domingo, con lo que se trabaja los fines de semana en bajas, me cuesta dinero aparte del precio.",
+  "would_change_my_mind": "Que lo organizara u homologara mi asociación profesional, a precio de asociado, y que hubiera un módulo concreto de bajas laborales e informes para mutuas.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 220,
+  "price_too_expensive": 350
+}

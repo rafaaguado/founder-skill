@@ -1,0 +1,92 @@
+{
+ "n": 10,
+ "seed": 22,
+ "customer": {
+  "business": "Academia Orbius de IA para detectives privados (curso intensivo de IA aplicada a la investigación privada)",
+  "target": "Detectives privados habilitados (con TIP) y titulares de agencias pequeñas de toda España",
+  "where": "España; sede presencial en Murcia",
+  "age": [
+   28,
+   63
+  ],
+  "currency": "EUR",
+  "segments": [
+   {
+    "name": "Detective autónomo/a que trabaja solo",
+    "share": 0.5,
+    "income": [
+     17000,
+     36000
+    ]
+   },
+   {
+    "name": "Titular de agencia pequeña (2-5 detectives)",
+    "share": 0.3,
+    "income": [
+     30000,
+     70000
+    ]
+   },
+   {
+    "name": "Detective en plantilla de agencia, aseguradora o empresa",
+    "share": 0.2,
+    "income": [
+     21000,
+     38000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "De campo",
+    "share": 0.25,
+    "how": "Su trabajo es seguimiento y vigilancia en la calle; lo digital lo usa poco."
+   },
+   {
+    "name": "OSINT avanzado",
+    "share": 0.15,
+    "how": "Ya domina búsquedas en fuentes abiertas y herramientas; sabe más que muchos formadores."
+   },
+   {
+    "name": "Obsesionado con la licitud",
+    "share": 0.18,
+    "how": "Le preocupa que un informe se le caiga en juicio o una sanción de la AEPD."
+   },
+   {
+    "name": "Compra en la asociación",
+    "share": 0.15,
+    "how": "Hace la formación que organiza su colegio o asociación profesional, en jornadas y congresos."
+   },
+   {
+    "name": "Cuenta horas",
+    "share": 0.17,
+    "how": "Solo paga formación si ve claro que le ahorra horas de informe o le trae casos."
+   },
+   {
+    "name": "Desconfía de los abogados",
+    "share": 0.1,
+    "how": "Cree que los abogados no entienden la investigación de campo y piden imposibles."
+   }
+  ],
+  "objections": [
+   "Con mi volumen de casos no sé si lo amortizo",
+   "Un abogado no sabe cómo se investiga en la calle",
+   "Lo de OSINT ya lo sé hacer",
+   "Los fines de semana trabajo: muchos seguimientos son en sábado",
+   "No da ninguna acreditación oficial ni puntos",
+   "Tendría que desplazarme a Murcia y perder un día de trabajo",
+   "No quiero dejar rastro de datos de mis casos en herramientas de IA"
+  ],
+  "habits": [
+   "tu despacho está en Murcia o Cartagena",
+   "trabajas desde Alicante o Valencia",
+   "trabajas en Madrid, donde está buena parte del sector",
+   "trabajas en Andalucía (Sevilla, Málaga o Granada)",
+   "trabajas en Barcelona",
+   "trabajas en una ciudad mediana del norte o del interior",
+   "haces muchas bajas laborales para mutuas y aseguradoras",
+   "llevas sobre todo casos de familia y custodias"
+  ]
+ },
+ "pitch": "Curso intensivo «IA para la investigación privada»: búsqueda en fuentes abiertas asistida por IA, análisis de documentos, audios y redes, cronologías e informes que aguanten la ratificación en juicio. Incluye lo que no se puede hacer: reconocimiento facial, intimidad, RGPD y prácticas prohibidas por el Reglamento europeo de IA.\nTe llevas una biblioteca de prompts por tarea, un protocolo de licitud para tu agencia y casos reales anonimizados. Es formación complementaria, no habilitante.\nImparte Rafa Aguado, abogado en ejercicio (penal, protección de datos, derecho tecnológico) y profesor de IA.\nFormato: gira presencial por provincias. La edición se celebra en un hotel de tu provincia, de viernes a las 16 h a domingo a las 18 h (unas 20 horas), en grupo de máximo 25 personas. Precio: 350 € + IVA solo el curso, o 600 € + IVA con alojamiento de dos noches en el mismo hotel y comidas."
+}

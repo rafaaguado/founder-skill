@@ -1,0 +1,13 @@
+{
+  "id": "P009",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Que sea online me quita el viaje, pero la mitad del temario es OSINT y eso ya lo hago a diario, seguramente mejor que quien lo vaya a enseñar. Por 290 € pagaría sobre todo por la parte legal, y eso no me llega para justificarlo.",
+  "objection": "Que me cuenten búsquedas en fuentes abiertas que ya domino, con cuatro herramientas de IA por encima, y que la parte que me interesa de verdad (licitud, RGPD, que el informe aguante la ratificación) sea solo un trozo de las 12 horas. Además, martes y jueves de 17 a 20 suelo estar en la calle siguiendo bajas.",
+  "would_change_my_mind": "Un módulo suelto, más corto y más barato, centrado solo en licitud de la prueba, Reglamento de IA y cómo redactar informes de bajas para mutuas que aguanten en juicio, o ver el temario detallado y comprobar que el OSINT es de nivel avanzado de verdad.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 280
+}
